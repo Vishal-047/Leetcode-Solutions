@@ -1,0 +1,37 @@
+name: Update README
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update README
+        run: |
+          COUNT=$(find . -type f \( -name "*.cpp" -o -name "*.py" -o -name "*.java" \) | wc -l)
+
+          LIST=$(find . -type f \( -name "*.cpp" -o -name "*.py" -o -name "*.java" \) | sed 's|./||')
+
+          awk -v count="$COUNT" -v list="$LIST" '
+          /<!-- PROBLEM_COUNT_START -->/ {print; print count; skip=1; next}
+          /<!-- PROBLEM_COUNT_END -->/ {skip=0}
+          /<!-- PROBLEM_LIST_START -->/ {print; print list; skiplist=1; next}
+          /<!-- PROBLEM_LIST_END -->/ {skiplist=0}
+          !skip && !skiplist {print}
+          ' README.md > temp.md
+
+          mv temp.md README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Auto-update README" || echo "No changes"
+          git push
