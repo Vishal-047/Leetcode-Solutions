@@ -8,11 +8,13 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-0
+2
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
 <!-- PROBLEM_LIST_START -->
+- [furthest point from origin/2833 furthest point from origin.cpp](https://leetcode.com/problems/furthest point from origin/2833 furthest point from origin.cpp)
+- [remove duplicates from sorted list/0083 remove duplicates from sorted list.cpp](https://leetcode.com/problems/remove duplicates from sorted list/0083 remove duplicates from sorted list.cpp)
 <!-- PROBLEM_LIST_END -->
 
 <!---LeetCode Topics Start-->
