@@ -1,5 +1,11 @@
 # 🚀 LeetCode Solutions
 
+
+![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange)
+![Language](https://img.shields.io/badge/Language-C++-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
 0
