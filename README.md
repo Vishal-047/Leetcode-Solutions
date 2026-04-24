@@ -1,1 +1,10 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🚀 LeetCode Solutions
+
+## 📊 Progress
+<!-- PROBLEM_COUNT_START -->
+0
+<!-- PROBLEM_COUNT_END -->
+
+## 📂 Solved Problems
+<!-- PROBLEM_LIST_START -->
+<!-- PROBLEM_LIST_END -->
