@@ -14,9 +14,9 @@ jobs:
 
       - name: Update README
         run: |
-          COUNT=$(find . -type f \( -name "*.cpp" -o -name "*.py" -o -name "*.java" \) | wc -l)
+          COUNT=$(find . -type f \( -name "*.cpp" -o -name "*.py" -o -name "*.java" -o -name "*.c" -o -name "*.js" -o -name "*.ts" \) | wc -l)
 
-          LIST=$(find . -type f \( -name "*.cpp" -o -name "*.py" -o -name "*.java" \) | sed 's|./||')
+          LIST=$(find . -type f \( -name "*.cpp" -o -name "*.py" -o -name "*.java" -o -name "*.c" -o -name "*.js" -o -name "*.ts" \) | sed 's|./||')
 
           awk -v count="$COUNT" -v list="$LIST" '
           /<!-- PROBLEM_COUNT_START -->/ {print; print count; skip=1; next}
