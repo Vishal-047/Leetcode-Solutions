@@ -36,4 +36,12 @@
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+## String
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
