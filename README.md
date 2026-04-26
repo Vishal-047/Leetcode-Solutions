@@ -8,12 +8,13 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-4
+5
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
 <!-- PROBLEM_LIST_START -->
 - [maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp](https://leetcode.com/problems/maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp)
+- [detect cycles in 2d grid/1559 detect cycles in 2d grid.cpp](https://leetcode.com/problems/detect cycles in 2d grid/1559 detect cycles in 2d grid.cpp)
 - [furthest point from origin/2833 furthest point from origin.cpp](https://leetcode.com/problems/furthest point from origin/2833 furthest point from origin.cpp)
 - [fruit into baskets/0904 fruit into baskets.cpp](https://leetcode.com/problems/fruit into baskets/0904 fruit into baskets.cpp)
 - [remove duplicates from sorted list/0083 remove duplicates from sorted list.cpp](https://leetcode.com/problems/remove duplicates from sorted list/0083 remove duplicates from sorted list.cpp)
