@@ -33,6 +33,7 @@
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Hash Table
@@ -75,18 +76,22 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Prefix Sum
 |  |
