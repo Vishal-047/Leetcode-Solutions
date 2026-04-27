@@ -8,11 +8,12 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-7
+8
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
 <!-- PROBLEM_LIST_START -->
+- [check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp](https://leetcode.com/problems/check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp)
 - [maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp](https://leetcode.com/problems/maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp)
 - [detect cycles in 2d grid/1559 detect cycles in 2d grid.cpp](https://leetcode.com/problems/detect cycles in 2d grid/1559 detect cycles in 2d grid.cpp)
 - [furthest point from origin/2833 furthest point from origin.cpp](https://leetcode.com/problems/furthest point from origin/2833 furthest point from origin.cpp)
