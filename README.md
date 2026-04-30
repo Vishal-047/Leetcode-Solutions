@@ -43,6 +43,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -115,4 +117,5 @@
 |  |
 | ------- |
 | [3225-maximum-score-from-grid-operations](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 <!---LeetCode Topics End-->
