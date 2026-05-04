@@ -40,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0904-fruit-into-baskets](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -79,6 +80,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -115,6 +117,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
