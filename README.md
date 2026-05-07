@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-18
+19
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -26,6 +26,7 @@
 - [number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp](https://leetcode.com/problems/number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp)
 - [maximum score from grid operations/3225 maximum score from grid operations.cpp](https://leetcode.com/problems/maximum score from grid operations/3225 maximum score from grid operations.cpp)
 - [closest equal element queries/3488 closest equal element queries.cpp](https://leetcode.com/problems/closest equal element queries/3488 closest equal element queries.cpp)
+- [jump game ix/3660 jump game ix.cpp](https://leetcode.com/problems/jump game ix/3660 jump game ix.cpp)
 - [maximum path score in a grid/3742 maximum path score in a grid.cpp](https://leetcode.com/problems/maximum path score in a grid/3742 maximum path score in a grid.cpp)
 - [fruit into baskets/0904 fruit into baskets.cpp](https://leetcode.com/problems/fruit into baskets/0904 fruit into baskets.cpp)
 - [rotate image/0048 rotate image.cpp](https://leetcode.com/problems/rotate image/0048 rotate image.cpp)
