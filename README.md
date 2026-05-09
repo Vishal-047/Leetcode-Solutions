@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-20
+21
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -16,6 +16,7 @@
 - [check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp](https://leetcode.com/problems/check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp)
 - [maximum sum of distinct subarrays with length k/2461 maximum sum of distinct subarrays with length k.cpp](https://leetcode.com/problems/maximum sum of distinct subarrays with length k/2461 maximum sum of distinct subarrays with length k.cpp)
 - [rotating the box/1861 rotating the box.cpp](https://leetcode.com/problems/rotating the box/1861 rotating the box.cpp)
+- [longest repeating character replacement/0424 longest repeating character replacement.cpp](https://leetcode.com/problems/longest repeating character replacement/0424 longest repeating character replacement.cpp)
 - [rotate string/0796 rotate string.cpp](https://leetcode.com/problems/rotate string/0796 rotate string.cpp)
 - [rotate function/0396 rotate function.cpp](https://leetcode.com/problems/rotate function/0396 rotate function.cpp)
 - [rotated digits/0788 rotated digits.cpp](https://leetcode.com/problems/rotated digits/0788 rotated digits.cpp)
