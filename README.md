@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-23
+24
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -20,6 +20,7 @@
 - [longest repeating character replacement/0424 longest repeating character replacement.cpp](https://leetcode.com/problems/longest repeating character replacement/0424 longest repeating character replacement.cpp)
 - [rotate string/0796 rotate string.cpp](https://leetcode.com/problems/rotate string/0796 rotate string.cpp)
 - [rotate function/0396 rotate function.cpp](https://leetcode.com/problems/rotate function/0396 rotate function.cpp)
+- [separate the digits in an array/2553 separate the digits in an array.cpp](https://leetcode.com/problems/separate the digits in an array/2553 separate the digits in an array.cpp)
 - [rotated digits/0788 rotated digits.cpp](https://leetcode.com/problems/rotated digits/0788 rotated digits.cpp)
 - [minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp](https://leetcode.com/problems/minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp)
 - [maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp](https://leetcode.com/problems/maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp)
