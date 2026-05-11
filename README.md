@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-24
+25
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -37,6 +37,7 @@
 - [remove duplicates from sorted list/0083 remove duplicates from sorted list.cpp](https://leetcode.com/problems/remove duplicates from sorted list/0083 remove duplicates from sorted list.cpp)
 - [minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp](https://leetcode.com/problems/minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp)
 - [binary subarrays with sum/0930 binary subarrays with sum.cpp](https://leetcode.com/problems/binary subarrays with sum/0930 binary subarrays with sum.cpp)
+- [two sum/0001 two sum.cpp](https://leetcode.com/problems/two sum/0001 two sum.cpp)
 <!-- PROBLEM_LIST_END -->
 
 <!---LeetCode Topics Start-->
