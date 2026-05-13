@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-26
+27
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -35,6 +35,7 @@
 - [maximum path score in a grid/3742 maximum path score in a grid.cpp](https://leetcode.com/problems/maximum path score in a grid/3742 maximum path score in a grid.cpp)
 - [fruit into baskets/0904 fruit into baskets.cpp](https://leetcode.com/problems/fruit into baskets/0904 fruit into baskets.cpp)
 - [rotate image/0048 rotate image.cpp](https://leetcode.com/problems/rotate image/0048 rotate image.cpp)
+- [minimum moves to make array complementary/1674 minimum moves to make array complementary.cpp](https://leetcode.com/problems/minimum moves to make array complementary/1674 minimum moves to make array complementary.cpp)
 - [remove duplicates from sorted list/0083 remove duplicates from sorted list.cpp](https://leetcode.com/problems/remove duplicates from sorted list/0083 remove duplicates from sorted list.cpp)
 - [minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp](https://leetcode.com/problems/minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp)
 - [binary subarrays with sum/0930 binary subarrays with sum.cpp](https://leetcode.com/problems/binary subarrays with sum/0930 binary subarrays with sum.cpp)
