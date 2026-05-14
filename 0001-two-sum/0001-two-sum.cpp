@@ -5,7 +5,7 @@ public:
         unordered_map<int, int>mp;
         for(int i=0;i<n;i++){
             int val=target-nums[i];
-            if(mp.find(val)!=mp.end()){
+            if(mp.count(val)){
                 return {mp[val], i};
             }
             mp[nums[i]]=i;
