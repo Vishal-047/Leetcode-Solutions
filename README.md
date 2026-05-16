@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-30
+31
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -43,6 +43,7 @@
 - [two sum/0001 two sum.cpp](https://leetcode.com/problems/two sum/0001 two sum.cpp)
 - [rotated digits/0788 rotated digits.cpp](https://leetcode.com/problems/rotated digits/0788 rotated digits.cpp)
 - [maximum path score in a grid/3742 maximum path score in a grid.cpp](https://leetcode.com/problems/maximum path score in a grid/3742 maximum path score in a grid.cpp)
+- [top k frequent elements/0347 top k frequent elements.cpp](https://leetcode.com/problems/top k frequent elements/0347 top k frequent elements.cpp)
 <!-- PROBLEM_LIST_END -->
 
 <!---LeetCode Topics Start-->
