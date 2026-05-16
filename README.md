@@ -58,6 +58,7 @@
 | [0048-rotate-image](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0904-fruit-into-baskets](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -111,6 +113,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2833-furthest-point-from-origin](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Math
 |  |
@@ -135,6 +138,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2784-check-if-array-is-good](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -202,4 +206,20 @@
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
