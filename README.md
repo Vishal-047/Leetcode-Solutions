@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-34
+35
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -25,6 +25,7 @@
 - [maximum score from grid operations/3225 maximum score from grid operations.cpp](https://leetcode.com/problems/maximum score from grid operations/3225 maximum score from grid operations.cpp)
 - [minimum moves to make array complementary/1674 minimum moves to make array complementary.cpp](https://leetcode.com/problems/minimum moves to make array complementary/1674 minimum moves to make array complementary.cpp)
 - [maximum number of jumps to reach the last index/2770 maximum number of jumps to reach the last index.cpp](https://leetcode.com/problems/maximum number of jumps to reach the last index/2770 maximum number of jumps to reach the last index.cpp)
+- [minimum common value/2540 minimum common value.cpp](https://leetcode.com/problems/minimum common value/2540 minimum common value.cpp)
 - [remove duplicates from sorted list/0083 remove duplicates from sorted list.cpp](https://leetcode.com/problems/remove duplicates from sorted list/0083 remove duplicates from sorted list.cpp)
 - [jump game iii/1306 jump game iii.cpp](https://leetcode.com/problems/jump game iii/1306 jump game iii.cpp)
 - [cyclically rotating a grid/1914 cyclically rotating a grid.cpp](https://leetcode.com/problems/cyclically rotating a grid/1914 cyclically rotating a grid.cpp)
