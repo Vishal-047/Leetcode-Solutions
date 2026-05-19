@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-33
+34
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -40,6 +40,7 @@
 - [maximum sum of distinct subarrays with length k/2461 maximum sum of distinct subarrays with length k.cpp](https://leetcode.com/problems/maximum sum of distinct subarrays with length k/2461 maximum sum of distinct subarrays with length k.cpp)
 - [rotate string/0796 rotate string.cpp](https://leetcode.com/problems/rotate string/0796 rotate string.cpp)
 - [minimum initial energy to finish tasks/1665 minimum initial energy to finish tasks.cpp](https://leetcode.com/problems/minimum initial energy to finish tasks/1665 minimum initial energy to finish tasks.cpp)
+- [jump game iv/1345 jump game iv.cpp](https://leetcode.com/problems/jump game iv/1345 jump game iv.cpp)
 - [number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp](https://leetcode.com/problems/number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp)
 - [two sum/0001 two sum.cpp](https://leetcode.com/problems/two sum/0001 two sum.cpp)
 - [rotated digits/0788 rotated digits.cpp](https://leetcode.com/problems/rotated digits/0788 rotated digits.cpp)
