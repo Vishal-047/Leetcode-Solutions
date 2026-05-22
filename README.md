@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-35
+36
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -31,6 +31,7 @@
 - [cyclically rotating a grid/1914 cyclically rotating a grid.cpp](https://leetcode.com/problems/cyclically rotating a grid/1914 cyclically rotating a grid.cpp)
 - [find minimum in rotated sorted array/0153 find minimum in rotated sorted array.cpp](https://leetcode.com/problems/find minimum in rotated sorted array/0153 find minimum in rotated sorted array.cpp)
 - [binary subarrays with sum/0930 binary subarrays with sum.cpp](https://leetcode.com/problems/binary subarrays with sum/0930 binary subarrays with sum.cpp)
+- [search in rotated sorted array/0033 search in rotated sorted array.cpp](https://leetcode.com/problems/search in rotated sorted array/0033 search in rotated sorted array.cpp)
 - [jump game ix/3660 jump game ix.cpp](https://leetcode.com/problems/jump game ix/3660 jump game ix.cpp)
 - [check if array is good/2784 check if array is good.cpp](https://leetcode.com/problems/check if array is good/2784 check if array is good.cpp)
 - [group anagrams/0049 group anagrams.cpp](https://leetcode.com/problems/group anagrams/0049 group anagrams.cpp)
