@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-37
+38
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -39,6 +39,7 @@
 - [rotating the box/1861 rotating the box.cpp](https://leetcode.com/problems/rotating the box/1861 rotating the box.cpp)
 - [separate the digits in an array/2553 separate the digits in an array.cpp](https://leetcode.com/problems/separate the digits in an array/2553 separate the digits in an array.cpp)
 - [rotate image/0048 rotate image.cpp](https://leetcode.com/problems/rotate image/0048 rotate image.cpp)
+- [check if array is sorted and rotated/1752 check if array is sorted and rotated.cpp](https://leetcode.com/problems/check if array is sorted and rotated/1752 check if array is sorted and rotated.cpp)
 - [maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp](https://leetcode.com/problems/maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp)
 - [maximum sum of distinct subarrays with length k/2461 maximum sum of distinct subarrays with length k.cpp](https://leetcode.com/problems/maximum sum of distinct subarrays with length k/2461 maximum sum of distinct subarrays with length k.cpp)
 - [rotate string/0796 rotate string.cpp](https://leetcode.com/problems/rotate string/0796 rotate string.cpp)
