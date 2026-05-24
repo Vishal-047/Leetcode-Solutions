@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-38
+39
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -48,6 +48,7 @@
 - [number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp](https://leetcode.com/problems/number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp)
 - [two sum/0001 two sum.cpp](https://leetcode.com/problems/two sum/0001 two sum.cpp)
 - [rotated digits/0788 rotated digits.cpp](https://leetcode.com/problems/rotated digits/0788 rotated digits.cpp)
+- [jump game v/1340 jump game v.cpp](https://leetcode.com/problems/jump game v/1340 jump game v.cpp)
 - [maximum path score in a grid/3742 maximum path score in a grid.cpp](https://leetcode.com/problems/maximum path score in a grid/3742 maximum path score in a grid.cpp)
 - [find minimum in rotated sorted array ii/0154 find minimum in rotated sorted array ii.cpp](https://leetcode.com/problems/find minimum in rotated sorted array ii/0154 find minimum in rotated sorted array ii.cpp)
 - [top k frequent elements/0347 top k frequent elements.cpp](https://leetcode.com/problems/top k frequent elements/0347 top k frequent elements.cpp)
