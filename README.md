@@ -120,6 +120,7 @@
 | [0904-fruit-into-baskets](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1871-jump-game-vii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -128,6 +129,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1871-jump-game-vii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [2833-furthest-point-from-origin](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Counting
 |  |
@@ -201,6 +203,7 @@
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Dynamic Programming
 |  |
@@ -208,6 +211,7 @@
 | [0396-rotate-function](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3660-jump-game-ix) |
