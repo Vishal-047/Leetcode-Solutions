@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-42
+43
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -21,6 +21,7 @@
 - [jump game v/1340 jump game v.cpp](https://leetcode.com/problems/jump game v/1340 jump game v.cpp)
 - [jump game iii/1306 jump game iii.cpp](https://leetcode.com/problems/jump game iii/1306 jump game iii.cpp)
 - [fruit into baskets/0904 fruit into baskets.cpp](https://leetcode.com/problems/fruit into baskets/0904 fruit into baskets.cpp)
+- [minimum element after replacement with digit sum/3300 minimum element after replacement with digit sum.cpp](https://leetcode.com/problems/minimum element after replacement with digit sum/3300 minimum element after replacement with digit sum.cpp)
 - [check if array is good/2784 check if array is good.cpp](https://leetcode.com/problems/check if array is good/2784 check if array is good.cpp)
 - [minimum moves to make array complementary/1674 minimum moves to make array complementary.cpp](https://leetcode.com/problems/minimum moves to make array complementary/1674 minimum moves to make array complementary.cpp)
 - [remove duplicates from sorted list/0083 remove duplicates from sorted list.cpp](https://leetcode.com/problems/remove duplicates from sorted list/0083 remove duplicates from sorted list.cpp)
