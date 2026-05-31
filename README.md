@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-43
+44
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -51,6 +51,7 @@
 - [minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp](https://leetcode.com/problems/minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp)
 - [rotating the box/1861 rotating the box.cpp](https://leetcode.com/problems/rotating the box/1861 rotating the box.cpp)
 - [furthest point from origin/2833 furthest point from origin.cpp](https://leetcode.com/problems/furthest point from origin/2833 furthest point from origin.cpp)
+- [destroying asteroids/2126 destroying asteroids.cpp](https://leetcode.com/problems/destroying asteroids/2126 destroying asteroids.cpp)
 - [rotate image/0048 rotate image.cpp](https://leetcode.com/problems/rotate image/0048 rotate image.cpp)
 - [minimum common value/2540 minimum common value.cpp](https://leetcode.com/problems/minimum common value/2540 minimum common value.cpp)
 - [group anagrams/0049 group anagrams.cpp](https://leetcode.com/problems/group anagrams/0049 group anagrams.cpp)
