@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-46
+47
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -44,6 +44,7 @@
 - [number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp](https://leetcode.com/problems/number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp)
 - [jump game iv/1345 jump game iv.cpp](https://leetcode.com/problems/jump game iv/1345 jump game iv.cpp)
 - [search in rotated sorted array/0033 search in rotated sorted array.cpp](https://leetcode.com/problems/search in rotated sorted array/0033 search in rotated sorted array.cpp)
+- [minimum cost of buying candies with discount/2144 minimum cost of buying candies with discount.cpp](https://leetcode.com/problems/minimum cost of buying candies with discount/2144 minimum cost of buying candies with discount.cpp)
 - [count the number of special characters ii/3121 count the number of special characters ii.cpp](https://leetcode.com/problems/count the number of special characters ii/3121 count the number of special characters ii.cpp)
 - [jump game vii/1871 jump game vii.cpp](https://leetcode.com/problems/jump game vii/1871 jump game vii.cpp)
 - [block placement queries/3161 block placement queries.cpp](https://leetcode.com/problems/block placement queries/3161 block placement queries.cpp)
