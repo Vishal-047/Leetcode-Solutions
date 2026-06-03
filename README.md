@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-45
+46
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -46,6 +46,7 @@
 - [search in rotated sorted array/0033 search in rotated sorted array.cpp](https://leetcode.com/problems/search in rotated sorted array/0033 search in rotated sorted array.cpp)
 - [count the number of special characters ii/3121 count the number of special characters ii.cpp](https://leetcode.com/problems/count the number of special characters ii/3121 count the number of special characters ii.cpp)
 - [jump game vii/1871 jump game vii.cpp](https://leetcode.com/problems/jump game vii/1871 jump game vii.cpp)
+- [block placement queries/3161 block placement queries.cpp](https://leetcode.com/problems/block placement queries/3161 block placement queries.cpp)
 - [maximum sum of distinct subarrays with length k/2461 maximum sum of distinct subarrays with length k.cpp](https://leetcode.com/problems/maximum sum of distinct subarrays with length k/2461 maximum sum of distinct subarrays with length k.cpp)
 - [detect cycles in 2d grid/1559 detect cycles in 2d grid.cpp](https://leetcode.com/problems/detect cycles in 2d grid/1559 detect cycles in 2d grid.cpp)
 - [maximum number of jumps to reach the last index/2770 maximum number of jumps to reach the last index.cpp](https://leetcode.com/problems/maximum number of jumps to reach the last index/2770 maximum number of jumps to reach the last index.cpp)
