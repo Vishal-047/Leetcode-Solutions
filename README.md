@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-44
+45
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -40,6 +40,7 @@
 - [two sum/0001 two sum.cpp](https://leetcode.com/problems/two sum/0001 two sum.cpp)
 - [closest equal element queries/3488 closest equal element queries.cpp](https://leetcode.com/problems/closest equal element queries/3488 closest equal element queries.cpp)
 - [minimum initial energy to finish tasks/1665 minimum initial energy to finish tasks.cpp](https://leetcode.com/problems/minimum initial energy to finish tasks/1665 minimum initial energy to finish tasks.cpp)
+- [longest common suffix queries/3093 longest common suffix queries.cpp](https://leetcode.com/problems/longest common suffix queries/3093 longest common suffix queries.cpp)
 - [number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp](https://leetcode.com/problems/number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp)
 - [jump game iv/1345 jump game iv.cpp](https://leetcode.com/problems/jump game iv/1345 jump game iv.cpp)
 - [search in rotated sorted array/0033 search in rotated sorted array.cpp](https://leetcode.com/problems/search in rotated sorted array/0033 search in rotated sorted array.cpp)
