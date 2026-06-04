@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-48
+49
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -52,6 +52,7 @@
 - [detect cycles in 2d grid/1559 detect cycles in 2d grid.cpp](https://leetcode.com/problems/detect cycles in 2d grid/1559 detect cycles in 2d grid.cpp)
 - [maximum number of jumps to reach the last index/2770 maximum number of jumps to reach the last index.cpp](https://leetcode.com/problems/maximum number of jumps to reach the last index/2770 maximum number of jumps to reach the last index.cpp)
 - [minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp](https://leetcode.com/problems/minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp)
+- [total waviness of numbers in range i/3751 total waviness of numbers in range i.cpp](https://leetcode.com/problems/total waviness of numbers in range i/3751 total waviness of numbers in range i.cpp)
 - [rotating the box/1861 rotating the box.cpp](https://leetcode.com/problems/rotating the box/1861 rotating the box.cpp)
 - [furthest point from origin/2833 furthest point from origin.cpp](https://leetcode.com/problems/furthest point from origin/2833 furthest point from origin.cpp)
 - [destroying asteroids/2126 destroying asteroids.cpp](https://leetcode.com/problems/destroying asteroids/2126 destroying asteroids.cpp)
