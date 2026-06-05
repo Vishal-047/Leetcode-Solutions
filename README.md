@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-49
+50
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -58,6 +58,7 @@
 - [destroying asteroids/2126 destroying asteroids.cpp](https://leetcode.com/problems/destroying asteroids/2126 destroying asteroids.cpp)
 - [rotate image/0048 rotate image.cpp](https://leetcode.com/problems/rotate image/0048 rotate image.cpp)
 - [minimum common value/2540 minimum common value.cpp](https://leetcode.com/problems/minimum common value/2540 minimum common value.cpp)
+- [total waviness of numbers in range ii/3753 total waviness of numbers in range ii.cpp](https://leetcode.com/problems/total waviness of numbers in range ii/3753 total waviness of numbers in range ii.cpp)
 - [group anagrams/0049 group anagrams.cpp](https://leetcode.com/problems/group anagrams/0049 group anagrams.cpp)
 - [rotate string/0796 rotate string.cpp](https://leetcode.com/problems/rotate string/0796 rotate string.cpp)
 - [earliest finish time for land and water rides ii/3635 earliest finish time for land and water rides ii.cpp](https://leetcode.com/problems/earliest finish time for land and water rides ii/3635 earliest finish time for land and water rides ii.cpp)
