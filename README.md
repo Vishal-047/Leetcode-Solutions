@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-50
+51
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -16,6 +16,7 @@
 - [maximum path score in a grid/3742 maximum path score in a grid.cpp](https://leetcode.com/problems/maximum path score in a grid/3742 maximum path score in a grid.cpp)
 - [longest repeating character replacement/0424 longest repeating character replacement.cpp](https://leetcode.com/problems/longest repeating character replacement/0424 longest repeating character replacement.cpp)
 - [count the number of special characters i/3120 count the number of special characters i.cpp](https://leetcode.com/problems/count the number of special characters i/3120 count the number of special characters i.cpp)
+- [left and right sum differences/2574 left and right sum differences.cpp](https://leetcode.com/problems/left and right sum differences/2574 left and right sum differences.cpp)
 - [minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp](https://leetcode.com/problems/minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp)
 - [check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp](https://leetcode.com/problems/check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp)
 - [jump game v/1340 jump game v.cpp](https://leetcode.com/problems/jump game v/1340 jump game v.cpp)
