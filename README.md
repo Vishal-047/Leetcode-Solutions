@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-51
+52
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -18,6 +18,7 @@
 - [count the number of special characters i/3120 count the number of special characters i.cpp](https://leetcode.com/problems/count the number of special characters i/3120 count the number of special characters i.cpp)
 - [left and right sum differences/2574 left and right sum differences.cpp](https://leetcode.com/problems/left and right sum differences/2574 left and right sum differences.cpp)
 - [minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp](https://leetcode.com/problems/minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp)
+- [number of ways to assign edge weights i/3558 number of ways to assign edge weights i.cpp](https://leetcode.com/problems/number of ways to assign edge weights i/3558 number of ways to assign edge weights i.cpp)
 - [check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp](https://leetcode.com/problems/check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp)
 - [jump game v/1340 jump game v.cpp](https://leetcode.com/problems/jump game v/1340 jump game v.cpp)
 - [jump game iii/1306 jump game iii.cpp](https://leetcode.com/problems/jump game iii/1306 jump game iii.cpp)
