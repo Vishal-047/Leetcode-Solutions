@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-53
+54
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -62,6 +62,7 @@
 - [closest equal element queries/3488 closest equal element queries.cpp](https://leetcode.com/problems/closest equal element queries/3488 closest equal element queries.cpp)
 - [minimum element after replacement with digit sum/3300 minimum element after replacement with digit sum.cpp](https://leetcode.com/problems/minimum element after replacement with digit sum/3300 minimum element after replacement with digit sum.cpp)
 - [jump game iv/1345 jump game iv.cpp](https://leetcode.com/problems/jump game iv/1345 jump game iv.cpp)
+- [weighted word mapping/3838 weighted word mapping.cpp](https://leetcode.com/problems/weighted word mapping/3838 weighted word mapping.cpp)
 - [furthest point from origin/2833 furthest point from origin.cpp](https://leetcode.com/problems/furthest point from origin/2833 furthest point from origin.cpp)
 - [cyclically rotating a grid/1914 cyclically rotating a grid.cpp](https://leetcode.com/problems/cyclically rotating a grid/1914 cyclically rotating a grid.cpp)
 - [maximum sum of distinct subarrays with length k/2461 maximum sum of distinct subarrays with length k.cpp](https://leetcode.com/problems/maximum sum of distinct subarrays with length k/2461 maximum sum of distinct subarrays with length k.cpp)
