@@ -8,13 +8,14 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-55
+56
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
 <!-- PROBLEM_LIST_START -->
 - [minimum common value/2540 minimum common value.cpp](https://leetcode.com/problems/minimum common value/2540 minimum common value.cpp)
 - [jump game ix/3660 jump game ix.cpp](https://leetcode.com/problems/jump game ix/3660 jump game ix.cpp)
+- [process string with special operations ii/3614 process string with special operations ii.cpp](https://leetcode.com/problems/process string with special operations ii/3614 process string with special operations ii.cpp)
 - [group anagrams/0049 group anagrams.cpp](https://leetcode.com/problems/group anagrams/0049 group anagrams.cpp)
 - [longest repeating character replacement/0424 longest repeating character replacement.cpp](https://leetcode.com/problems/longest repeating character replacement/0424 longest repeating character replacement.cpp)
 - [check if array is good/2784 check if array is good.cpp](https://leetcode.com/problems/check if array is good/2784 check if array is good.cpp)
