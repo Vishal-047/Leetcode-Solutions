@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-58
+59
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -23,6 +23,7 @@
 - [maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp](https://leetcode.com/problems/maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp)
 - [search in rotated sorted array/0033 search in rotated sorted array.cpp](https://leetcode.com/problems/search in rotated sorted array/0033 search in rotated sorted array.cpp)
 - [jump game vii/1871 jump game vii.cpp](https://leetcode.com/problems/jump game vii/1871 jump game vii.cpp)
+- [maximum ice cream bars/1833 maximum ice cream bars.cpp](https://leetcode.com/problems/maximum ice cream bars/1833 maximum ice cream bars.cpp)
 - [jump game v/1340 jump game v.cpp](https://leetcode.com/problems/jump game v/1340 jump game v.cpp)
 - [minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp](https://leetcode.com/problems/minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp)
 - [check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp](https://leetcode.com/problems/check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp)
