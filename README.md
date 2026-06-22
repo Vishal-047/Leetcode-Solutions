@@ -136,6 +136,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -162,6 +163,7 @@
 | [0049-group-anagrams](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [2833-furthest-point-from-origin](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
@@ -174,6 +176,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Math
 |  |
