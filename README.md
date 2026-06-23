@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-60
+61
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -29,6 +29,7 @@
 - [maximum number of balloons/1189 maximum number of balloons.cpp](https://leetcode.com/problems/maximum number of balloons/1189 maximum number of balloons.cpp)
 - [check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp](https://leetcode.com/problems/check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp)
 - [minimum moves to make array complementary/1674 minimum moves to make array complementary.cpp](https://leetcode.com/problems/minimum moves to make array complementary/1674 minimum moves to make array complementary.cpp)
+- [number of zigzag arrays i/3699 number of zigzag arrays i.cpp](https://leetcode.com/problems/number of zigzag arrays i/3699 number of zigzag arrays i.cpp)
 - [find minimum in rotated sorted array/0153 find minimum in rotated sorted array.cpp](https://leetcode.com/problems/find minimum in rotated sorted array/0153 find minimum in rotated sorted array.cpp)
 - [count the number of special characters i/3120 count the number of special characters i.cpp](https://leetcode.com/problems/count the number of special characters i/3120 count the number of special characters i.cpp)
 - [check if array is sorted and rotated/1752 check if array is sorted and rotated.cpp](https://leetcode.com/problems/check if array is sorted and rotated/1752 check if array is sorted and rotated.cpp)
