@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-63
+64
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -20,6 +20,7 @@
 - [longest repeating character replacement/0424 longest repeating character replacement.cpp](https://leetcode.com/problems/longest repeating character replacement/0424 longest repeating character replacement.cpp)
 - [check if array is good/2784 check if array is good.cpp](https://leetcode.com/problems/check if array is good/2784 check if array is good.cpp)
 - [find the prefix common array of two arrays/2657 find the prefix common array of two arrays.cpp](https://leetcode.com/problems/find the prefix common array of two arrays/2657 find the prefix common array of two arrays.cpp)
+- [find first and last position of element in sorted array/0034 find first and last position of element in sorted array.cpp](https://leetcode.com/problems/find first and last position of element in sorted array/0034 find first and last position of element in sorted array.cpp)
 - [maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp](https://leetcode.com/problems/maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp)
 - [search in rotated sorted array/0033 search in rotated sorted array.cpp](https://leetcode.com/problems/search in rotated sorted array/0033 search in rotated sorted array.cpp)
 - [jump game vii/1871 jump game vii.cpp](https://leetcode.com/problems/jump game vii/1871 jump game vii.cpp)
