@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-62
+63
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -50,6 +50,7 @@
 - [number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp](https://leetcode.com/problems/number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp)
 - [minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp](https://leetcode.com/problems/minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp)
 - [count the number of special characters ii/3121 count the number of special characters ii.cpp](https://leetcode.com/problems/count the number of special characters ii/3121 count the number of special characters ii.cpp)
+- [merge sorted array/0088 merge sorted array.cpp](https://leetcode.com/problems/merge sorted array/0088 merge sorted array.cpp)
 - [rotating the box/1861 rotating the box.cpp](https://leetcode.com/problems/rotating the box/1861 rotating the box.cpp)
 - [number of ways to assign edge weights ii/3559 number of ways to assign edge weights ii.cpp](https://leetcode.com/problems/number of ways to assign edge weights ii/3559 number of ways to assign edge weights ii.cpp)
 - [fruit into baskets/0904 fruit into baskets.cpp](https://leetcode.com/problems/fruit into baskets/0904 fruit into baskets.cpp)
