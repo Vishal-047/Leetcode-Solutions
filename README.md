@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-64
+65
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -48,6 +48,7 @@
 - [find minimum in rotated sorted array ii/0154 find minimum in rotated sorted array ii.cpp](https://leetcode.com/problems/find minimum in rotated sorted array ii/0154 find minimum in rotated sorted array ii.cpp)
 - [earliest finish time for land and water rides ii/3635 earliest finish time for land and water rides ii.cpp](https://leetcode.com/problems/earliest finish time for land and water rides ii/3635 earliest finish time for land and water rides ii.cpp)
 - [delete the middle node of a linked list/2095 delete the middle node of a linked list.cpp](https://leetcode.com/problems/delete the middle node of a linked list/2095 delete the middle node of a linked list.cpp)
+- [number of strings that appear as substrings in word/1967 number of strings that appear as substrings in word.cpp](https://leetcode.com/problems/number of strings that appear as substrings in word/1967 number of strings that appear as substrings in word.cpp)
 - [number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp](https://leetcode.com/problems/number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp)
 - [minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp](https://leetcode.com/problems/minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp)
 - [count the number of special characters ii/3121 count the number of special characters ii.cpp](https://leetcode.com/problems/count the number of special characters ii/3121 count the number of special characters ii.cpp)
