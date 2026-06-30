@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-66
+67
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -62,6 +62,7 @@
 - [total waviness of numbers in range ii/3753 total waviness of numbers in range ii.cpp](https://leetcode.com/problems/total waviness of numbers in range ii/3753 total waviness of numbers in range ii.cpp)
 - [minimum initial energy to finish tasks/1665 minimum initial energy to finish tasks.cpp](https://leetcode.com/problems/minimum initial energy to finish tasks/1665 minimum initial energy to finish tasks.cpp)
 - [two sum/0001 two sum.cpp](https://leetcode.com/problems/two sum/0001 two sum.cpp)
+- [koko eating bananas/0875 koko eating bananas.cpp](https://leetcode.com/problems/koko eating bananas/0875 koko eating bananas.cpp)
 - [top k frequent elements/0347 top k frequent elements.cpp](https://leetcode.com/problems/top k frequent elements/0347 top k frequent elements.cpp)
 - [block placement queries/3161 block placement queries.cpp](https://leetcode.com/problems/block placement queries/3161 block placement queries.cpp)
 - [binary subarrays with sum/0930 binary subarrays with sum.cpp](https://leetcode.com/problems/binary subarrays with sum/0930 binary subarrays with sum.cpp)
