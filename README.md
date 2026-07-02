@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-69
+70
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -17,6 +17,7 @@
 - [jump game ix/3660 jump game ix.cpp](https://leetcode.com/problems/jump game ix/3660 jump game ix.cpp)
 - [process string with special operations ii/3614 process string with special operations ii.cpp](https://leetcode.com/problems/process string with special operations ii/3614 process string with special operations ii.cpp)
 - [group anagrams/0049 group anagrams.cpp](https://leetcode.com/problems/group anagrams/0049 group anagrams.cpp)
+- [minimum swaps to group all 1s together ii/2134 minimum swaps to group all 1s together ii.cpp](https://leetcode.com/problems/minimum swaps to group all 1s together ii/2134 minimum swaps to group all 1s together ii.cpp)
 - [longest repeating character replacement/0424 longest repeating character replacement.cpp](https://leetcode.com/problems/longest repeating character replacement/0424 longest repeating character replacement.cpp)
 - [check if array is good/2784 check if array is good.cpp](https://leetcode.com/problems/check if array is good/2784 check if array is good.cpp)
 - [find the prefix common array of two arrays/2657 find the prefix common array of two arrays.cpp](https://leetcode.com/problems/find the prefix common array of two arrays/2657 find the prefix common array of two arrays.cpp)
