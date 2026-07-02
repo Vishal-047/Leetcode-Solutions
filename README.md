@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-68
+69
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -52,6 +52,7 @@
 - [delete the middle node of a linked list/2095 delete the middle node of a linked list.cpp](https://leetcode.com/problems/delete the middle node of a linked list/2095 delete the middle node of a linked list.cpp)
 - [number of strings that appear as substrings in word/1967 number of strings that appear as substrings in word.cpp](https://leetcode.com/problems/number of strings that appear as substrings in word/1967 number of strings that appear as substrings in word.cpp)
 - [number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp](https://leetcode.com/problems/number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp)
+- [maximum average subarray i/0643 maximum average subarray i.cpp](https://leetcode.com/problems/maximum average subarray i/0643 maximum average subarray i.cpp)
 - [minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp](https://leetcode.com/problems/minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp)
 - [count the number of special characters ii/3121 count the number of special characters ii.cpp](https://leetcode.com/problems/count the number of special characters ii/3121 count the number of special characters ii.cpp)
 - [merge sorted array/0088 merge sorted array.cpp](https://leetcode.com/problems/merge sorted array/0088 merge sorted array.cpp)
