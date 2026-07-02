@@ -124,6 +124,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
@@ -176,6 +177,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
