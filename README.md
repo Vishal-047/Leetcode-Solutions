@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-75
+76
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -76,6 +76,7 @@
 - [rotate function/0396 rotate function.cpp](https://leetcode.com/problems/rotate function/0396 rotate function.cpp)
 - [running sum of 1d array/1480 running sum of 1d array.cpp](https://leetcode.com/problems/running sum of 1d array/1480 running sum of 1d array.cpp)
 - [rotate image/0048 rotate image.cpp](https://leetcode.com/problems/rotate image/0048 rotate image.cpp)
+- [reverse string/0344 reverse string.cpp](https://leetcode.com/problems/reverse string/0344 reverse string.cpp)
 - [total waviness of numbers in range i/3751 total waviness of numbers in range i.cpp](https://leetcode.com/problems/total waviness of numbers in range i/3751 total waviness of numbers in range i.cpp)
 - [maximum subarray/0053 maximum subarray.cpp](https://leetcode.com/problems/maximum subarray/0053 maximum subarray.cpp)
 - [maximum path score in a grid/3742 maximum path score in a grid.cpp](https://leetcode.com/problems/maximum path score in a grid/3742 maximum path score in a grid.cpp)
