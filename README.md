@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-73
+74
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -62,6 +62,7 @@
 - [fruit into baskets/0904 fruit into baskets.cpp](https://leetcode.com/problems/fruit into baskets/0904 fruit into baskets.cpp)
 - [separate the digits in an array/2553 separate the digits in an array.cpp](https://leetcode.com/problems/separate the digits in an array/2553 separate the digits in an array.cpp)
 - [maximum number of jumps to reach the last index/2770 maximum number of jumps to reach the last index.cpp](https://leetcode.com/problems/maximum number of jumps to reach the last index/2770 maximum number of jumps to reach the last index.cpp)
+- [subarray sum equals k/0560 subarray sum equals k.cpp](https://leetcode.com/problems/subarray sum equals k/0560 subarray sum equals k.cpp)
 - [find pivot index/0724 find pivot index.cpp](https://leetcode.com/problems/find pivot index/0724 find pivot index.cpp)
 - [total waviness of numbers in range ii/3753 total waviness of numbers in range ii.cpp](https://leetcode.com/problems/total waviness of numbers in range ii/3753 total waviness of numbers in range ii.cpp)
 - [minimum initial energy to finish tasks/1665 minimum initial energy to finish tasks.cpp](https://leetcode.com/problems/minimum initial energy to finish tasks/1665 minimum initial energy to finish tasks.cpp)
