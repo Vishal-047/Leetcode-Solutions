@@ -162,6 +162,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0796-rotate-string) |
@@ -256,6 +258,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1340-jump-game-v](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
