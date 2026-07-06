@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-78
+79
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -30,6 +30,7 @@
 - [jump game v/1340 jump game v.cpp](https://leetcode.com/problems/jump game v/1340 jump game v.cpp)
 - [minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp](https://leetcode.com/problems/minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp)
 - [maximum number of balloons/1189 maximum number of balloons.cpp](https://leetcode.com/problems/maximum number of balloons/1189 maximum number of balloons.cpp)
+- [longest substring without repeating characters/0003 longest substring without repeating characters.cpp](https://leetcode.com/problems/longest substring without repeating characters/0003 longest substring without repeating characters.cpp)
 - [check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp](https://leetcode.com/problems/check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp)
 - [first unique character in a string/0387 first unique character in a string.cpp](https://leetcode.com/problems/first unique character in a string/0387 first unique character in a string.cpp)
 - [minimum moves to make array complementary/1674 minimum moves to make array complementary.cpp](https://leetcode.com/problems/minimum moves to make array complementary/1674 minimum moves to make array complementary.cpp)
