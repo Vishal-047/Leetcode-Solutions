@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-77
+78
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -31,6 +31,7 @@
 - [minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp](https://leetcode.com/problems/minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp)
 - [maximum number of balloons/1189 maximum number of balloons.cpp](https://leetcode.com/problems/maximum number of balloons/1189 maximum number of balloons.cpp)
 - [check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp](https://leetcode.com/problems/check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp)
+- [first unique character in a string/0387 first unique character in a string.cpp](https://leetcode.com/problems/first unique character in a string/0387 first unique character in a string.cpp)
 - [minimum moves to make array complementary/1674 minimum moves to make array complementary.cpp](https://leetcode.com/problems/minimum moves to make array complementary/1674 minimum moves to make array complementary.cpp)
 - [number of zigzag arrays i/3699 number of zigzag arrays i.cpp](https://leetcode.com/problems/number of zigzag arrays i/3699 number of zigzag arrays i.cpp)
 - [find minimum in rotated sorted array/0153 find minimum in rotated sorted array.cpp](https://leetcode.com/problems/find minimum in rotated sorted array/0153 find minimum in rotated sorted array.cpp)
