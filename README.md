@@ -134,6 +134,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1672-richest-customer-wealth](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -317,6 +318,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
