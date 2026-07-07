@@ -2,10 +2,10 @@ class Solution {
 public:
     int maximumWealth(vector<vector<int>>& accounts) {
         int ans=0;
-        for(auto& i:accounts){
+        for(auto& r:accounts){
             int sum=0;
-            for(int j:i){
-                sum+=j;
+            for(int c:r){
+                sum+=c;
             }
             ans=max(sum, ans);
         }
