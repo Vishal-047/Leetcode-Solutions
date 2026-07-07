@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-81
+82
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -57,6 +57,7 @@
 - [earliest finish time for land and water rides ii/3635 earliest finish time for land and water rides ii.cpp](https://leetcode.com/problems/earliest finish time for land and water rides ii/3635 earliest finish time for land and water rides ii.cpp)
 - [delete the middle node of a linked list/2095 delete the middle node of a linked list.cpp](https://leetcode.com/problems/delete the middle node of a linked list/2095 delete the middle node of a linked list.cpp)
 - [number of strings that appear as substrings in word/1967 number of strings that appear as substrings in word.cpp](https://leetcode.com/problems/number of strings that appear as substrings in word/1967 number of strings that appear as substrings in word.cpp)
+- [richest customer wealth/1672 richest customer wealth.cpp](https://leetcode.com/problems/richest customer wealth/1672 richest customer wealth.cpp)
 - [number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp](https://leetcode.com/problems/number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp)
 - [maximum average subarray i/0643 maximum average subarray i.cpp](https://leetcode.com/problems/maximum average subarray i/0643 maximum average subarray i.cpp)
 - [minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp](https://leetcode.com/problems/minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp)
