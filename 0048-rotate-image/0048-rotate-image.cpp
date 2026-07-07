@@ -1,14 +1,14 @@
 class Solution {
 public:
-    void rotate(vector<vector<int>>& mat) {
-        int n = mat.size(), k = n - 1;
-        for (int i = 0; i < n >> 1; i++)
-            for (int j = i; j < k - i; j++) {
-                int t = mat[i][j];
-                mat[i][j] = mat[k - j][i];
-                mat[k - j][i] = mat[k - i][k - j];
-                mat[k - i][k - j] = mat[j][k - i];
-                mat[j][k - i] = t;
+    void rotate(vector<vector<int>>& m) {
+        int n=m.size();
+        for(int i=0;i<n;i++){
+            for(int j=i;j<n;j++){
+                swap(m[i][j],m[j][i]);
             }
+        }
+        for(int i=0;i<n;i++){
+            reverse(m[i].begin(),m[i].end());
+        }
     }
 };
