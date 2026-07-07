@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-79
+80
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -51,6 +51,7 @@
 - [rotate string/0796 rotate string.cpp](https://leetcode.com/problems/rotate string/0796 rotate string.cpp)
 - [find peak element/0162 find peak element.cpp](https://leetcode.com/problems/find peak element/0162 find peak element.cpp)
 - [count subarrays with majority element i/3737 count subarrays with majority element i.cpp](https://leetcode.com/problems/count subarrays with majority element i/3737 count subarrays with majority element i.cpp)
+- [concatenate non zero digits and multiply by sum i/3754 concatenate non zero digits and multiply by sum i.cpp](https://leetcode.com/problems/concatenate non zero digits and multiply by sum i/3754 concatenate non zero digits and multiply by sum i.cpp)
 - [find minimum in rotated sorted array ii/0154 find minimum in rotated sorted array ii.cpp](https://leetcode.com/problems/find minimum in rotated sorted array ii/0154 find minimum in rotated sorted array ii.cpp)
 - [earliest finish time for land and water rides ii/3635 earliest finish time for land and water rides ii.cpp](https://leetcode.com/problems/earliest finish time for land and water rides ii/3635 earliest finish time for land and water rides ii.cpp)
 - [delete the middle node of a linked list/2095 delete the middle node of a linked list.cpp](https://leetcode.com/problems/delete the middle node of a linked list/2095 delete the middle node of a linked list.cpp)
