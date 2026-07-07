@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-83
+84
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -61,6 +61,7 @@
 - [number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp](https://leetcode.com/problems/number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp)
 - [maximum average subarray i/0643 maximum average subarray i.cpp](https://leetcode.com/problems/maximum average subarray i/0643 maximum average subarray i.cpp)
 - [minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp](https://leetcode.com/problems/minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp)
+- [matrix diagonal sum/1572 matrix diagonal sum.cpp](https://leetcode.com/problems/matrix diagonal sum/1572 matrix diagonal sum.cpp)
 - [count the number of special characters ii/3121 count the number of special characters ii.cpp](https://leetcode.com/problems/count the number of special characters ii/3121 count the number of special characters ii.cpp)
 - [merge sorted array/0088 merge sorted array.cpp](https://leetcode.com/problems/merge sorted array/0088 merge sorted array.cpp)
 - [rotating the box/1861 rotating the box.cpp](https://leetcode.com/problems/rotating the box/1861 rotating the box.cpp)
