@@ -7,26 +7,22 @@ public:
             for (int i = left ; i <= right ; i ++){
                 ans.push_back(matrix[top][i]);
             }
-            top += 1;
-
+            top++;
             for (int j = top; j <= bottom ; j++){
                 ans.push_back(matrix[j][right]);
             }
-            right -= 1;
-
-
+            right--;
             if (top <= bottom){
             for (int k = right; k >= left; k--){
                 ans.push_back(matrix[bottom][k]);
             }
-            bottom -= 1;
-
+            bottom--;
             }
             if (left <= right){
             for (int l = bottom; l >= top; l--){
                 ans.push_back(matrix[l][left]);
             }
-            left += 1;
+            left++;
             }
         }
         return ans;
