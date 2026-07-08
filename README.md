@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-84
+85
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -90,6 +90,7 @@
 - [maximum path score in a grid/3742 maximum path score in a grid.cpp](https://leetcode.com/problems/maximum path score in a grid/3742 maximum path score in a grid.cpp)
 - [number of ways to assign edge weights i/3558 number of ways to assign edge weights i.cpp](https://leetcode.com/problems/number of ways to assign edge weights i/3558 number of ways to assign edge weights i.cpp)
 - [closest equal element queries/3488 closest equal element queries.cpp](https://leetcode.com/problems/closest equal element queries/3488 closest equal element queries.cpp)
+- [diagonal traverse/0498 diagonal traverse.cpp](https://leetcode.com/problems/diagonal traverse/0498 diagonal traverse.cpp)
 - [minimum element after replacement with digit sum/3300 minimum element after replacement with digit sum.cpp](https://leetcode.com/problems/minimum element after replacement with digit sum/3300 minimum element after replacement with digit sum.cpp)
 - [jump game iv/1345 jump game iv.cpp](https://leetcode.com/problems/jump game iv/1345 jump game iv.cpp)
 - [weighted word mapping/3838 weighted word mapping.cpp](https://leetcode.com/problems/weighted word mapping/3838 weighted word mapping.cpp)
