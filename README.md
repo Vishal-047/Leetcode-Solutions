@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-87
+88
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -39,6 +39,7 @@
 - [count the number of special characters i/3120 count the number of special characters i.cpp](https://leetcode.com/problems/count the number of special characters i/3120 count the number of special characters i.cpp)
 - [check if array is sorted and rotated/1752 check if array is sorted and rotated.cpp](https://leetcode.com/problems/check if array is sorted and rotated/1752 check if array is sorted and rotated.cpp)
 - [angle between hands of a clock/1344 angle between hands of a clock.cpp](https://leetcode.com/problems/angle between hands of a clock/1344 angle between hands of a clock.cpp)
+- [set matrix zeroes/0073 set matrix zeroes.cpp](https://leetcode.com/problems/set matrix zeroes/0073 set matrix zeroes.cpp)
 - [detect cycles in 2d grid/1559 detect cycles in 2d grid.cpp](https://leetcode.com/problems/detect cycles in 2d grid/1559 detect cycles in 2d grid.cpp)
 - [find the highest altitude/1732 find the highest altitude.cpp](https://leetcode.com/problems/find the highest altitude/1732 find the highest altitude.cpp)
 - [magnetic force between two balls/1552 magnetic force between two balls.cpp](https://leetcode.com/problems/magnetic force between two balls/1552 magnetic force between two balls.cpp)
