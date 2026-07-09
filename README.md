@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-90
+91
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -67,6 +67,7 @@
 - [matrix diagonal sum/1572 matrix diagonal sum.cpp](https://leetcode.com/problems/matrix diagonal sum/1572 matrix diagonal sum.cpp)
 - [count the number of special characters ii/3121 count the number of special characters ii.cpp](https://leetcode.com/problems/count the number of special characters ii/3121 count the number of special characters ii.cpp)
 - [merge sorted array/0088 merge sorted array.cpp](https://leetcode.com/problems/merge sorted array/0088 merge sorted array.cpp)
+- [path existence queries in a graph i/3532 path existence queries in a graph i.cpp](https://leetcode.com/problems/path existence queries in a graph i/3532 path existence queries in a graph i.cpp)
 - [rotating the box/1861 rotating the box.cpp](https://leetcode.com/problems/rotating the box/1861 rotating the box.cpp)
 - [number of ways to assign edge weights ii/3559 number of ways to assign edge weights ii.cpp](https://leetcode.com/problems/number of ways to assign edge weights ii/3559 number of ways to assign edge weights ii.cpp)
 - [fruit into baskets/0904 fruit into baskets.cpp](https://leetcode.com/problems/fruit into baskets/0904 fruit into baskets.cpp)
