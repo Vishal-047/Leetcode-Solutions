@@ -250,6 +250,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0396-rotate-function](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -461,4 +462,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
