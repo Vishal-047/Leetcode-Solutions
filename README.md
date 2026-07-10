@@ -116,6 +116,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -193,6 +194,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -394,6 +396,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [1861-rotating-the-box](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
