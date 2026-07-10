@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-94
+95
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -19,6 +19,7 @@
 - [group anagrams/0049 group anagrams.cpp](https://leetcode.com/problems/group anagrams/0049 group anagrams.cpp)
 - [minimum swaps to group all 1s together ii/2134 minimum swaps to group all 1s together ii.cpp](https://leetcode.com/problems/minimum swaps to group all 1s together ii/2134 minimum swaps to group all 1s together ii.cpp)
 - [longest repeating character replacement/0424 longest repeating character replacement.cpp](https://leetcode.com/problems/longest repeating character replacement/0424 longest repeating character replacement.cpp)
+- [intersection of two linked lists/0160 intersection of two linked lists.cpp](https://leetcode.com/problems/intersection of two linked lists/0160 intersection of two linked lists.cpp)
 - [check if array is good/2784 check if array is good.cpp](https://leetcode.com/problems/check if array is good/2784 check if array is good.cpp)
 - [find the prefix common array of two arrays/2657 find the prefix common array of two arrays.cpp](https://leetcode.com/problems/find the prefix common array of two arrays/2657 find the prefix common array of two arrays.cpp)
 - [powx n/0050 powx n.cpp](https://leetcode.com/problems/powx n/0050 powx n.cpp)
