@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
@@ -477,6 +478,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Graph Theory
 |  |
