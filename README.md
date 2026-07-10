@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-92
+93
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -72,6 +72,7 @@
 - [rotating the box/1861 rotating the box.cpp](https://leetcode.com/problems/rotating the box/1861 rotating the box.cpp)
 - [number of ways to assign edge weights ii/3559 number of ways to assign edge weights ii.cpp](https://leetcode.com/problems/number of ways to assign edge weights ii/3559 number of ways to assign edge weights ii.cpp)
 - [fruit into baskets/0904 fruit into baskets.cpp](https://leetcode.com/problems/fruit into baskets/0904 fruit into baskets.cpp)
+- [reverse linked list/0206 reverse linked list.cpp](https://leetcode.com/problems/reverse linked list/0206 reverse linked list.cpp)
 - [separate the digits in an array/2553 separate the digits in an array.cpp](https://leetcode.com/problems/separate the digits in an array/2553 separate the digits in an array.cpp)
 - [maximum number of jumps to reach the last index/2770 maximum number of jumps to reach the last index.cpp](https://leetcode.com/problems/maximum number of jumps to reach the last index/2770 maximum number of jumps to reach the last index.cpp)
 - [subarray sum equals k/0560 subarray sum equals k.cpp](https://leetcode.com/problems/subarray sum equals k/0560 subarray sum equals k.cpp)
