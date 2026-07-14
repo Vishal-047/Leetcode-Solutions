@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-95
+96
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -26,6 +26,7 @@
 - [remove nth node from end of list/0019 remove nth node from end of list.cpp](https://leetcode.com/problems/remove nth node from end of list/0019 remove nth node from end of list.cpp)
 - [find first and last position of element in sorted array/0034 find first and last position of element in sorted array.cpp](https://leetcode.com/problems/find first and last position of element in sorted array/0034 find first and last position of element in sorted array.cpp)
 - [maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp](https://leetcode.com/problems/maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp)
+- [reverse nodes in k group/0025 reverse nodes in k group.cpp](https://leetcode.com/problems/reverse nodes in k group/0025 reverse nodes in k group.cpp)
 - [search in rotated sorted array/0033 search in rotated sorted array.cpp](https://leetcode.com/problems/search in rotated sorted array/0033 search in rotated sorted array.cpp)
 - [jump game vii/1871 jump game vii.cpp](https://leetcode.com/problems/jump game vii/1871 jump game vii.cpp)
 - [maximum ice cream bars/1833 maximum ice cream bars.cpp](https://leetcode.com/problems/maximum ice cream bars/1833 maximum ice cream bars.cpp)
