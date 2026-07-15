@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-96
+97
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -74,6 +74,7 @@
 - [path existence queries in a graph i/3532 path existence queries in a graph i.cpp](https://leetcode.com/problems/path existence queries in a graph i/3532 path existence queries in a graph i.cpp)
 - [rotating the box/1861 rotating the box.cpp](https://leetcode.com/problems/rotating the box/1861 rotating the box.cpp)
 - [number of ways to assign edge weights ii/3559 number of ways to assign edge weights ii.cpp](https://leetcode.com/problems/number of ways to assign edge weights ii/3559 number of ways to assign edge weights ii.cpp)
+- [baseball game/0682 baseball game.py](https://leetcode.com/problems/baseball game/0682 baseball game.py)
 - [fruit into baskets/0904 fruit into baskets.cpp](https://leetcode.com/problems/fruit into baskets/0904 fruit into baskets.cpp)
 - [reverse linked list/0206 reverse linked list.cpp](https://leetcode.com/problems/reverse linked list/0206 reverse linked list.cpp)
 - [separate the digits in an array/2553 separate the digits in an array.cpp](https://leetcode.com/problems/separate the digits in an array/2553 separate the digits in an array.cpp)
