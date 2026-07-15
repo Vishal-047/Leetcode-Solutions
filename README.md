@@ -144,6 +144,7 @@
 | [0498-diagonal-traverse](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -414,6 +415,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0682-baseball-game](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
@@ -495,4 +497,8 @@
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
