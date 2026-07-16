@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-97
+98
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -16,6 +16,7 @@
 - [minimum common value/2540 minimum common value.cpp](https://leetcode.com/problems/minimum common value/2540 minimum common value.cpp)
 - [jump game ix/3660 jump game ix.cpp](https://leetcode.com/problems/jump game ix/3660 jump game ix.cpp)
 - [process string with special operations ii/3614 process string with special operations ii.cpp](https://leetcode.com/problems/process string with special operations ii/3614 process string with special operations ii.cpp)
+- [remove outermost parentheses/1021 remove outermost parentheses.cpp](https://leetcode.com/problems/remove outermost parentheses/1021 remove outermost parentheses.cpp)
 - [group anagrams/0049 group anagrams.cpp](https://leetcode.com/problems/group anagrams/0049 group anagrams.cpp)
 - [minimum swaps to group all 1s together ii/2134 minimum swaps to group all 1s together ii.cpp](https://leetcode.com/problems/minimum swaps to group all 1s together ii/2134 minimum swaps to group all 1s together ii.cpp)
 - [longest repeating character replacement/0424 longest repeating character replacement.cpp](https://leetcode.com/problems/longest repeating character replacement/0424 longest repeating character replacement.cpp)
