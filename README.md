@@ -245,6 +245,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -502,4 +503,5 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
