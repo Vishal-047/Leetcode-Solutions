@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-99
+100
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -46,6 +46,7 @@
 - [earliest finish time for land and water rides ii/3635 earliest finish time for land and water rides ii.cpp](https://leetcode.com/problems/earliest finish time for land and water rides ii/3635 earliest finish time for land and water rides ii.cpp)
 - [longest repeating character replacement/0424 longest repeating character replacement.cpp](https://leetcode.com/problems/longest repeating character replacement/0424 longest repeating character replacement.cpp)
 - [process string with special operations ii/3614 process string with special operations ii.cpp](https://leetcode.com/problems/process string with special operations ii/3614 process string with special operations ii.cpp)
+- [make the string great/1544 make the string great.cpp](https://leetcode.com/problems/make the string great/1544 make the string great.cpp)
 - [count the number of special characters ii/3121 count the number of special characters ii.cpp](https://leetcode.com/problems/count the number of special characters ii/3121 count the number of special characters ii.cpp)
 - [number of strings that appear as substrings in word/1967 number of strings that appear as substrings in word.cpp](https://leetcode.com/problems/number of strings that appear as substrings in word/1967 number of strings that appear as substrings in word.cpp)
 - [jump game ix/3660 jump game ix.cpp](https://leetcode.com/problems/jump game ix/3660 jump game ix.cpp)
