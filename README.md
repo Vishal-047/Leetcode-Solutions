@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-100
+101
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -91,6 +91,7 @@
 - [baseball game/0682 baseball game.py](https://leetcode.com/problems/baseball game/0682 baseball game.py)
 - [two sum/0001 two sum.cpp](https://leetcode.com/problems/two sum/0001 two sum.cpp)
 - [path existence queries in a graph i/3532 path existence queries in a graph i.cpp](https://leetcode.com/problems/path existence queries in a graph i/3532 path existence queries in a graph i.cpp)
+- [remove all adjacent duplicates in string/1047 remove all adjacent duplicates in string.cpp](https://leetcode.com/problems/remove all adjacent duplicates in string/1047 remove all adjacent duplicates in string.cpp)
 - [delete the middle node of a linked list/2095 delete the middle node of a linked list.cpp](https://leetcode.com/problems/delete the middle node of a linked list/2095 delete the middle node of a linked list.cpp)
 - [koko eating bananas/0875 koko eating bananas.cpp](https://leetcode.com/problems/koko eating bananas/0875 koko eating bananas.cpp)
 - [rotate function/0396 rotate function.cpp](https://leetcode.com/problems/rotate function/0396 rotate function.cpp)
