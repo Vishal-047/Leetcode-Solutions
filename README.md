@@ -246,6 +246,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -405,6 +406,7 @@
 | [0088-merge-sorted-array](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1861-rotating-the-box](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
@@ -419,6 +421,7 @@
 | [0054-spiral-matrix](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
@@ -504,5 +507,6 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
