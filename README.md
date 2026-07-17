@@ -530,6 +530,7 @@
 | [0682-baseball-game](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -539,4 +540,13 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
