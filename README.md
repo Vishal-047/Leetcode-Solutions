@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-105
+106
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -63,6 +63,7 @@
 - [search in rotated sorted array/0033 search in rotated sorted array.cpp](https://leetcode.com/problems/search in rotated sorted array/0033 search in rotated sorted array.cpp)
 - [maximum average subarray i/0643 maximum average subarray i.cpp](https://leetcode.com/problems/maximum average subarray i/0643 maximum average subarray i.cpp)
 - [check if array is sorted and rotated/1752 check if array is sorted and rotated.cpp](https://leetcode.com/problems/check if array is sorted and rotated/1752 check if array is sorted and rotated.cpp)
+- [online stock span/0901 online stock span.cpp](https://leetcode.com/problems/online stock span/0901 online stock span.cpp)
 - [block placement queries/3161 block placement queries.cpp](https://leetcode.com/problems/block placement queries/3161 block placement queries.cpp)
 - [concatenate non zero digits and multiply by sum i/3754 concatenate non zero digits and multiply by sum i.cpp](https://leetcode.com/problems/concatenate non zero digits and multiply by sum i/3754 concatenate non zero digits and multiply by sum i.cpp)
 - [valid anagram/0242 valid anagram.cpp](https://leetcode.com/problems/valid anagram/0242 valid anagram.cpp)
