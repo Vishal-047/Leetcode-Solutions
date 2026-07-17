@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-106
+107
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -71,6 +71,7 @@
 - [minimum cost of buying candies with discount/2144 minimum cost of buying candies with discount.cpp](https://leetcode.com/problems/minimum cost of buying candies with discount/2144 minimum cost of buying candies with discount.cpp)
 - [running sum of 1d array/1480 running sum of 1d array.cpp](https://leetcode.com/problems/running sum of 1d array/1480 running sum of 1d array.cpp)
 - [count subarrays with majority element i/3737 count subarrays with majority element i.cpp](https://leetcode.com/problems/count subarrays with majority element i/3737 count subarrays with majority element i.cpp)
+- [evaluate reverse polish notation/0150 evaluate reverse polish notation.cpp](https://leetcode.com/problems/evaluate reverse polish notation/0150 evaluate reverse polish notation.cpp)
 - [matrix diagonal sum/1572 matrix diagonal sum.cpp](https://leetcode.com/problems/matrix diagonal sum/1572 matrix diagonal sum.cpp)
 - [find pivot index/0724 find pivot index.cpp](https://leetcode.com/problems/find pivot index/0724 find pivot index.cpp)
 - [minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp](https://leetcode.com/problems/minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp)
