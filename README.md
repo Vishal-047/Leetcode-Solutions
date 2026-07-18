@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-109
+110
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -81,6 +81,7 @@
 - [magnetic force between two balls/1552 magnetic force between two balls.cpp](https://leetcode.com/problems/magnetic force between two balls/1552 magnetic force between two balls.cpp)
 - [total waviness of numbers in range ii/3753 total waviness of numbers in range ii.cpp](https://leetcode.com/problems/total waviness of numbers in range ii/3753 total waviness of numbers in range ii.cpp)
 - [minimum add to make parentheses valid/0921 minimum add to make parentheses valid.cpp](https://leetcode.com/problems/minimum add to make parentheses valid/0921 minimum add to make parentheses valid.cpp)
+- [min stack/0155 min stack.cpp](https://leetcode.com/problems/min stack/0155 min stack.cpp)
 - [diagonal traverse/0498 diagonal traverse.cpp](https://leetcode.com/problems/diagonal traverse/0498 diagonal traverse.cpp)
 - [number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp](https://leetcode.com/problems/number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp)
 - [binary subarrays with sum/0930 binary subarrays with sum.cpp](https://leetcode.com/problems/binary subarrays with sum/0930 binary subarrays with sum.cpp)
