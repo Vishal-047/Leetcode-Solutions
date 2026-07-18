@@ -537,6 +537,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -556,6 +557,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
