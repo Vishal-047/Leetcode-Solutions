@@ -256,6 +256,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -533,6 +534,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
