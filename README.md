@@ -258,6 +258,7 @@
 | [0242-valid-anagram](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -522,6 +523,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Graph Theory
 |  |
@@ -531,6 +533,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
