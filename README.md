@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-111
+112
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -97,6 +97,7 @@
 - [subarray sum equals k/0560 subarray sum equals k.cpp](https://leetcode.com/problems/subarray sum equals k/0560 subarray sum equals k.cpp)
 - [minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp](https://leetcode.com/problems/minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp)
 - [baseball game/0682 baseball game.py](https://leetcode.com/problems/baseball game/0682 baseball game.py)
+- [minimum depth of binary tree/0111 minimum depth of binary tree.cpp](https://leetcode.com/problems/minimum depth of binary tree/0111 minimum depth of binary tree.cpp)
 - [two sum/0001 two sum.cpp](https://leetcode.com/problems/two sum/0001 two sum.cpp)
 - [path existence queries in a graph i/3532 path existence queries in a graph i.cpp](https://leetcode.com/problems/path existence queries in a graph i/3532 path existence queries in a graph i.cpp)
 - [remove all adjacent duplicates in string/1047 remove all adjacent duplicates in string.cpp](https://leetcode.com/problems/remove all adjacent duplicates in string/1047 remove all adjacent duplicates in string.cpp)
