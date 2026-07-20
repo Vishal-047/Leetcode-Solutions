@@ -358,6 +358,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [1306-jump-game-iii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -430,6 +431,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Two Pointers
 |  |
@@ -516,6 +518,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Counting Sort
@@ -581,4 +584,9 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
