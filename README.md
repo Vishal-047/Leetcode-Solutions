@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-113
+114
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -43,6 +43,7 @@
 - [number of ways to assign edge weights ii/3559 number of ways to assign edge weights ii.cpp](https://leetcode.com/problems/number of ways to assign edge weights ii/3559 number of ways to assign edge weights ii.cpp)
 - [maximum ice cream bars/1833 maximum ice cream bars.cpp](https://leetcode.com/problems/maximum ice cream bars/1833 maximum ice cream bars.cpp)
 - [total waviness of numbers in range i/3751 total waviness of numbers in range i.cpp](https://leetcode.com/problems/total waviness of numbers in range i/3751 total waviness of numbers in range i.cpp)
+- [subtree of another tree/0572 subtree of another tree.cpp](https://leetcode.com/problems/subtree of another tree/0572 subtree of another tree.cpp)
 - [earliest finish time for land and water rides ii/3635 earliest finish time for land and water rides ii.cpp](https://leetcode.com/problems/earliest finish time for land and water rides ii/3635 earliest finish time for land and water rides ii.cpp)
 - [longest repeating character replacement/0424 longest repeating character replacement.cpp](https://leetcode.com/problems/longest repeating character replacement/0424 longest repeating character replacement.cpp)
 - [process string with special operations ii/3614 process string with special operations ii.cpp](https://leetcode.com/problems/process string with special operations ii/3614 process string with special operations ii.cpp)
