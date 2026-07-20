@@ -15,16 +15,15 @@ public:
         if(!a && !b) return true;
         if(!a || !b) return false;
 
-        if(a -> val != b -> val) return false; //value mismatch
+        if(a -> val != b -> val) return false;
         return isSametree(a -> left,b -> left) && isSametree(a -> right,b -> right);
     }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
 
         if(!root) return false;
 
-        if(isSametree(root,subRoot)) return true; //yahin se match hoga
+        if(isSametree(root,subRoot)) return true;
 
         return isSubtree(root -> left, subRoot) || isSubtree(root -> right, subRoot);
-        // nahi mila to left ya right mein dhundo
     }
 };
