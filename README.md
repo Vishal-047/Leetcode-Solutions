@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-115
+116
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -108,6 +108,7 @@
 - [rotate function/0396 rotate function.cpp](https://leetcode.com/problems/rotate function/0396 rotate function.cpp)
 - [reverse nodes in k group/0025 reverse nodes in k group.cpp](https://leetcode.com/problems/reverse nodes in k group/0025 reverse nodes in k group.cpp)
 - [subarray product less than k/0713 subarray product less than k.cpp](https://leetcode.com/problems/subarray product less than k/0713 subarray product less than k.cpp)
+- [construct binary tree from inorder and postorder traversal/0106 construct binary tree from inorder and postorder traversal.cpp](https://leetcode.com/problems/construct binary tree from inorder and postorder traversal/0106 construct binary tree from inorder and postorder traversal.cpp)
 - [count the number of special characters i/3120 count the number of special characters i.cpp](https://leetcode.com/problems/count the number of special characters i/3120 count the number of special characters i.cpp)
 - [minimum swaps to group all 1s together ii/2134 minimum swaps to group all 1s together ii.cpp](https://leetcode.com/problems/minimum swaps to group all 1s together ii/2134 minimum swaps to group all 1s together ii.cpp)
 - [reverse linked list/0206 reverse linked list.cpp](https://leetcode.com/problems/reverse linked list/0206 reverse linked list.cpp)
