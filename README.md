@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-117
+118
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -115,6 +115,7 @@
 - [reverse linked list/0206 reverse linked list.cpp](https://leetcode.com/problems/reverse linked list/0206 reverse linked list.cpp)
 - [maximum score from grid operations/3225 maximum score from grid operations.cpp](https://leetcode.com/problems/maximum score from grid operations/3225 maximum score from grid operations.cpp)
 - [jump game vii/1871 jump game vii.cpp](https://leetcode.com/problems/jump game vii/1871 jump game vii.cpp)
+- [insert into a binary search tree/0701 insert into a binary search tree.cpp](https://leetcode.com/problems/insert into a binary search tree/0701 insert into a binary search tree.cpp)
 - [backspace string compare/0844 backspace string compare.cpp](https://leetcode.com/problems/backspace string compare/0844 backspace string compare.cpp)
 - [count negative numbers in a sorted matrix/1351 count negative numbers in a sorted matrix.cpp](https://leetcode.com/problems/count negative numbers in a sorted matrix/1351 count negative numbers in a sorted matrix.cpp)
 - [rotating the box/1861 rotating the box.cpp](https://leetcode.com/problems/rotating the box/1861 rotating the box.cpp)
