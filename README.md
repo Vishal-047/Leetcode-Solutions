@@ -211,6 +211,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3660-jump-game-ix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -337,6 +338,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Geometry
 |  |
@@ -358,6 +360,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
@@ -451,6 +454,7 @@
 | [1861-rotating-the-box](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -478,6 +482,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
