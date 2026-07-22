@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-116
+117
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -77,6 +77,7 @@
 - [matrix diagonal sum/1572 matrix diagonal sum.cpp](https://leetcode.com/problems/matrix diagonal sum/1572 matrix diagonal sum.cpp)
 - [find pivot index/0724 find pivot index.cpp](https://leetcode.com/problems/find pivot index/0724 find pivot index.cpp)
 - [minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp](https://leetcode.com/problems/minimum jumps to reach end via prime teleportation/3629 minimum jumps to reach end via prime teleportation.cpp)
+- [earliest finish time for land and water rides i/3633 earliest finish time for land and water rides i.cpp](https://leetcode.com/problems/earliest finish time for land and water rides i/3633 earliest finish time for land and water rides i.cpp)
 - [minimum moves to make array complementary/1674 minimum moves to make array complementary.cpp](https://leetcode.com/problems/minimum moves to make array complementary/1674 minimum moves to make array complementary.cpp)
 - [set matrix zeroes/0073 set matrix zeroes.cpp](https://leetcode.com/problems/set matrix zeroes/0073 set matrix zeroes.cpp)
 - [magnetic force between two balls/1552 magnetic force between two balls.cpp](https://leetcode.com/problems/magnetic force between two balls/1552 magnetic force between two balls.cpp)
