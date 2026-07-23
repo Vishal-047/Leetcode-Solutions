@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-120
+121
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -126,6 +126,7 @@
 - [jump game iv/1345 jump game iv.cpp](https://leetcode.com/problems/jump game iv/1345 jump game iv.cpp)
 - [decode string/0394 decode string.cpp](https://leetcode.com/problems/decode string/0394 decode string.cpp)
 - [left and right sum differences/2574 left and right sum differences.cpp](https://leetcode.com/problems/left and right sum differences/2574 left and right sum differences.cpp)
+- [minimum absolute difference in bst/0530 minimum absolute difference in bst.cpp](https://leetcode.com/problems/minimum absolute difference in bst/0530 minimum absolute difference in bst.cpp)
 - [next greater element i/0496 next greater element i.cpp](https://leetcode.com/problems/next greater element i/0496 next greater element i.cpp)
 - [remove nth node from end of list/0019 remove nth node from end of list.cpp](https://leetcode.com/problems/remove nth node from end of list/0019 remove nth node from end of list.cpp)
 - [powx n/0050 powx n.cpp](https://leetcode.com/problems/powx n/0050 powx n.cpp)
