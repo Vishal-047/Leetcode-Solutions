@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-122
+123
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -126,6 +126,7 @@
 - [construct binary tree from preorder and inorder traversal/0105 construct binary tree from preorder and inorder traversal.cpp](https://leetcode.com/problems/construct binary tree from preorder and inorder traversal/0105 construct binary tree from preorder and inorder traversal.cpp)
 - [jump game iv/1345 jump game iv.cpp](https://leetcode.com/problems/jump game iv/1345 jump game iv.cpp)
 - [decode string/0394 decode string.cpp](https://leetcode.com/problems/decode string/0394 decode string.cpp)
+- [delete node in a bst/0450 delete node in a bst.cpp](https://leetcode.com/problems/delete node in a bst/0450 delete node in a bst.cpp)
 - [left and right sum differences/2574 left and right sum differences.cpp](https://leetcode.com/problems/left and right sum differences/2574 left and right sum differences.cpp)
 - [minimum absolute difference in bst/0530 minimum absolute difference in bst.cpp](https://leetcode.com/problems/minimum absolute difference in bst/0530 minimum absolute difference in bst.cpp)
 - [next greater element i/0496 next greater element i.cpp](https://leetcode.com/problems/next greater element i/0496 next greater element i.cpp)
