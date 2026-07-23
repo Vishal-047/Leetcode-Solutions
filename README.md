@@ -374,6 +374,7 @@
 | [0101-symmetric-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [1306-jump-game-iii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -385,6 +386,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1306-jump-game-iii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -542,6 +544,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -613,6 +616,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Hash Function
@@ -624,5 +628,6 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
