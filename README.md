@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-119
+120
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -120,6 +120,7 @@
 - [backspace string compare/0844 backspace string compare.cpp](https://leetcode.com/problems/backspace string compare/0844 backspace string compare.cpp)
 - [count negative numbers in a sorted matrix/1351 count negative numbers in a sorted matrix.cpp](https://leetcode.com/problems/count negative numbers in a sorted matrix/1351 count negative numbers in a sorted matrix.cpp)
 - [rotating the box/1861 rotating the box.cpp](https://leetcode.com/problems/rotating the box/1861 rotating the box.cpp)
+- [lowest common ancestor of a binary search tree/0235 lowest common ancestor of a binary search tree.cpp](https://leetcode.com/problems/lowest common ancestor of a binary search tree/0235 lowest common ancestor of a binary search tree.cpp)
 - [top k frequent elements/0347 top k frequent elements.cpp](https://leetcode.com/problems/top k frequent elements/0347 top k frequent elements.cpp)
 - [construct binary tree from preorder and inorder traversal/0105 construct binary tree from preorder and inorder traversal.cpp](https://leetcode.com/problems/construct binary tree from preorder and inorder traversal/0105 construct binary tree from preorder and inorder traversal.cpp)
 - [jump game iv/1345 jump game iv.cpp](https://leetcode.com/problems/jump game iv/1345 jump game iv.cpp)
