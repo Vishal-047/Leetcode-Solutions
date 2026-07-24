@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-125
+126
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -84,6 +84,7 @@
 - [minimum moves to make array complementary/1674 minimum moves to make array complementary.cpp](https://leetcode.com/problems/minimum moves to make array complementary/1674 minimum moves to make array complementary.cpp)
 - [set matrix zeroes/0073 set matrix zeroes.cpp](https://leetcode.com/problems/set matrix zeroes/0073 set matrix zeroes.cpp)
 - [magnetic force between two balls/1552 magnetic force between two balls.cpp](https://leetcode.com/problems/magnetic force between two balls/1552 magnetic force between two balls.cpp)
+- [last stone weight/1046 last stone weight.cpp](https://leetcode.com/problems/last stone weight/1046 last stone weight.cpp)
 - [total waviness of numbers in range ii/3753 total waviness of numbers in range ii.cpp](https://leetcode.com/problems/total waviness of numbers in range ii/3753 total waviness of numbers in range ii.cpp)
 - [minimum add to make parentheses valid/0921 minimum add to make parentheses valid.cpp](https://leetcode.com/problems/minimum add to make parentheses valid/0921 minimum add to make parentheses valid.cpp)
 - [min stack/0155 min stack.cpp](https://leetcode.com/problems/min stack/0155 min stack.cpp)
