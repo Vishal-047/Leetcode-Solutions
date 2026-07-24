@@ -177,6 +177,7 @@
 | [0396-rotate-function](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0506-relative-ranks](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -365,6 +366,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [1340-jump-game-v](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -519,6 +521,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
