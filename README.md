@@ -8,11 +8,12 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-127
+128
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
 <!-- PROBLEM_LIST_START -->
+- [reorganize string/0767 reorganize string.cpp](https://leetcode.com/problems/reorganize string/0767 reorganize string.cpp)
 - [relative ranks/0506 relative ranks.cpp](https://leetcode.com/problems/relative ranks/0506 relative ranks.cpp)
 - [set matrix zeroes/0073 set matrix zeroes.cpp](https://leetcode.com/problems/set matrix zeroes/0073 set matrix zeroes.cpp)
 - [maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp](https://leetcode.com/problems/maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp)
