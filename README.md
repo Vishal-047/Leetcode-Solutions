@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-129
+130
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -48,6 +48,7 @@
 - [minimum cost of buying candies with discount/2144 minimum cost of buying candies with discount.cpp](https://leetcode.com/problems/minimum cost of buying candies with discount/2144 minimum cost of buying candies with discount.cpp)
 - [reorganize string/0767 reorganize string.cpp](https://leetcode.com/problems/reorganize string/0767 reorganize string.cpp)
 - [validate binary search tree/0098 validate binary search tree.cpp](https://leetcode.com/problems/validate binary search tree/0098 validate binary search tree.cpp)
+- [binary tree inorder traversal/0094 binary tree inorder traversal.cpp](https://leetcode.com/problems/binary tree inorder traversal/0094 binary tree inorder traversal.cpp)
 - [number of zigzag arrays i/3699 number of zigzag arrays i.cpp](https://leetcode.com/problems/number of zigzag arrays i/3699 number of zigzag arrays i.cpp)
 - [search a 2d matrix/0074 search a 2d matrix.cpp](https://leetcode.com/problems/search a 2d matrix/0074 search a 2d matrix.cpp)
 - [relative ranks/0506 relative ranks.cpp](https://leetcode.com/problems/relative ranks/0506 relative ranks.cpp)
