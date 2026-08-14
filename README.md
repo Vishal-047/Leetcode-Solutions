@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-131
+132
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -119,6 +119,7 @@
 - [maximum path score in a grid/3742 maximum path score in a grid.cpp](https://leetcode.com/problems/maximum path score in a grid/3742 maximum path score in a grid.cpp)
 - [rotate string/0796 rotate string.cpp](https://leetcode.com/problems/rotate string/0796 rotate string.cpp)
 - [richest customer wealth/1672 richest customer wealth.cpp](https://leetcode.com/problems/richest customer wealth/1672 richest customer wealth.cpp)
+- [binary tree postorder traversal/0145 binary tree postorder traversal.cpp](https://leetcode.com/problems/binary tree postorder traversal/0145 binary tree postorder traversal.cpp)
 - [count subarrays with majority element i/3737 count subarrays with majority element i.cpp](https://leetcode.com/problems/count subarrays with majority element i/3737 count subarrays with majority element i.cpp)
 - [number of strings that appear as substrings in word/1967 number of strings that appear as substrings in word.cpp](https://leetcode.com/problems/number of strings that appear as substrings in word/1967 number of strings that appear as substrings in word.cpp)
 - [closest equal element queries/3488 closest equal element queries.cpp](https://leetcode.com/problems/closest equal element queries/3488 closest equal element queries.cpp)
