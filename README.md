@@ -398,6 +398,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -414,6 +415,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -580,6 +582,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -663,6 +666,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
