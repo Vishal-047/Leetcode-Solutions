@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-132
+133
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -139,6 +139,7 @@
 - [maximum length substring with two occurrences/3090 maximum length substring with two occurrences.cpp](https://leetcode.com/problems/maximum length substring with two occurrences/3090 maximum length substring with two occurrences.cpp)
 - [first unique character in a string/0387 first unique character in a string.cpp](https://leetcode.com/problems/first unique character in a string/0387 first unique character in a string.cpp)
 - [maximum ice cream bars/1833 maximum ice cream bars.cpp](https://leetcode.com/problems/maximum ice cream bars/1833 maximum ice cream bars.cpp)
+- [maximum depth of binary tree/0104 maximum depth of binary tree.cpp](https://leetcode.com/problems/maximum depth of binary tree/0104 maximum depth of binary tree.cpp)
 - [decode string/0394 decode string.cpp](https://leetcode.com/problems/decode string/0394 decode string.cpp)
 - [find first and last position of element in sorted array/0034 find first and last position of element in sorted array.cpp](https://leetcode.com/problems/find first and last position of element in sorted array/0034 find first and last position of element in sorted array.cpp)
 - [valid anagram/0242 valid anagram.cpp](https://leetcode.com/problems/valid anagram/0242 valid anagram.cpp)
