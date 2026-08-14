@@ -261,6 +261,7 @@
 | [2540-minimum-common-value](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
@@ -281,6 +282,7 @@
 | [1871-jump-game-vii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
@@ -305,6 +307,7 @@
 | [1871-jump-game-vii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2833-furthest-point-from-origin](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
