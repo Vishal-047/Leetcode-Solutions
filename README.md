@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-130
+131
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -35,6 +35,7 @@
 - [left and right sum differences/2574 left and right sum differences.cpp](https://leetcode.com/problems/left and right sum differences/2574 left and right sum differences.cpp)
 - [maximum average subarray i/0643 maximum average subarray i.cpp](https://leetcode.com/problems/maximum average subarray i/0643 maximum average subarray i.cpp)
 - [concatenate non zero digits and multiply by sum i/3754 concatenate non zero digits and multiply by sum i.cpp](https://leetcode.com/problems/concatenate non zero digits and multiply by sum i/3754 concatenate non zero digits and multiply by sum i.cpp)
+- [binary tree preorder traversal/0144 binary tree preorder traversal.cpp](https://leetcode.com/problems/binary tree preorder traversal/0144 binary tree preorder traversal.cpp)
 - [group anagrams/0049 group anagrams.cpp](https://leetcode.com/problems/group anagrams/0049 group anagrams.cpp)
 - [total waviness of numbers in range i/3751 total waviness of numbers in range i.cpp](https://leetcode.com/problems/total waviness of numbers in range i/3751 total waviness of numbers in range i.cpp)
 - [maximum subarray/0053 maximum subarray.cpp](https://leetcode.com/problems/maximum subarray/0053 maximum subarray.cpp)
