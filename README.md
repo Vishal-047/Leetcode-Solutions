@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-133
+134
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -30,6 +30,7 @@
 - [maximum number of jumps to reach the last index/2770 maximum number of jumps to reach the last index.cpp](https://leetcode.com/problems/maximum number of jumps to reach the last index/2770 maximum number of jumps to reach the last index.cpp)
 - [maximum number of vowels in a substring of given length/1456 maximum number of vowels in a substring of given length.cpp](https://leetcode.com/problems/maximum number of vowels in a substring of given length/1456 maximum number of vowels in a substring of given length.cpp)
 - [backspace string compare/0844 backspace string compare.cpp](https://leetcode.com/problems/backspace string compare/0844 backspace string compare.cpp)
+- [diameter of binary tree/0543 diameter of binary tree.cpp](https://leetcode.com/problems/diameter of binary tree/0543 diameter of binary tree.cpp)
 - [weighted word mapping/3838 weighted word mapping.cpp](https://leetcode.com/problems/weighted word mapping/3838 weighted word mapping.cpp)
 - [subarray product less than k/0713 subarray product less than k.cpp](https://leetcode.com/problems/subarray product less than k/0713 subarray product less than k.cpp)
 - [left and right sum differences/2574 left and right sum differences.cpp](https://leetcode.com/problems/left and right sum differences/2574 left and right sum differences.cpp)
