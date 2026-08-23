@@ -711,4 +711,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
