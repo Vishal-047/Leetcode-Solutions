@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-137
+138
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -110,6 +110,7 @@
 - [remove all adjacent duplicates in string/1047 remove all adjacent duplicates in string.cpp](https://leetcode.com/problems/remove all adjacent duplicates in string/1047 remove all adjacent duplicates in string.cpp)
 - [detect cycles in 2d grid/1559 detect cycles in 2d grid.cpp](https://leetcode.com/problems/detect cycles in 2d grid/1559 detect cycles in 2d grid.cpp)
 - [check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp](https://leetcode.com/problems/check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp)
+- [binary tree right side view/0199 binary tree right side view.cpp](https://leetcode.com/problems/binary tree right side view/0199 binary tree right side view.cpp)
 - [fruit into baskets/0904 fruit into baskets.cpp](https://leetcode.com/problems/fruit into baskets/0904 fruit into baskets.cpp)
 - [maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp](https://leetcode.com/problems/maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp)
 - [find the prefix common array of two arrays/2657 find the prefix common array of two arrays.cpp](https://leetcode.com/problems/find the prefix common array of two arrays/2657 find the prefix common array of two arrays.cpp)
