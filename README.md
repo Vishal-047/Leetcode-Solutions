@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-138
+139
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -135,6 +135,7 @@
 - [koko eating bananas/0875 koko eating bananas.cpp](https://leetcode.com/problems/koko eating bananas/0875 koko eating bananas.cpp)
 - [top k frequent elements/0347 top k frequent elements.cpp](https://leetcode.com/problems/top k frequent elements/0347 top k frequent elements.cpp)
 - [path existence queries in a graph i/3532 path existence queries in a graph i.cpp](https://leetcode.com/problems/path existence queries in a graph i/3532 path existence queries in a graph i.cpp)
+- [binary tree maximum path sum/0124 binary tree maximum path sum.cpp](https://leetcode.com/problems/binary tree maximum path sum/0124 binary tree maximum path sum.cpp)
 - [rotating the box/1861 rotating the box.cpp](https://leetcode.com/problems/rotating the box/1861 rotating the box.cpp)
 - [remove duplicates from sorted list/0083 remove duplicates from sorted list.cpp](https://leetcode.com/problems/remove duplicates from sorted list/0083 remove duplicates from sorted list.cpp)
 - [baseball game/0682 baseball game.py](https://leetcode.com/problems/baseball game/0682 baseball game.py)
