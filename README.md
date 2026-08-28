@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-139
+140
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -50,6 +50,7 @@
 - [number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp](https://leetcode.com/problems/number of substrings containing all three characters/1358 number of substrings containing all three characters.cpp)
 - [delete the middle node of a linked list/2095 delete the middle node of a linked list.cpp](https://leetcode.com/problems/delete the middle node of a linked list/2095 delete the middle node of a linked list.cpp)
 - [minimum cost of buying candies with discount/2144 minimum cost of buying candies with discount.cpp](https://leetcode.com/problems/minimum cost of buying candies with discount/2144 minimum cost of buying candies with discount.cpp)
+- [lowest common ancestor of a binary tree/0236 lowest common ancestor of a binary tree.cpp](https://leetcode.com/problems/lowest common ancestor of a binary tree/0236 lowest common ancestor of a binary tree.cpp)
 - [reorganize string/0767 reorganize string.cpp](https://leetcode.com/problems/reorganize string/0767 reorganize string.cpp)
 - [validate binary search tree/0098 validate binary search tree.cpp](https://leetcode.com/problems/validate binary search tree/0098 validate binary search tree.cpp)
 - [binary tree inorder traversal/0094 binary tree inorder traversal.cpp](https://leetcode.com/problems/binary tree inorder traversal/0094 binary tree inorder traversal.cpp)
