@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-141
+142
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -35,6 +35,7 @@
 - [jump game iii/1306 jump game iii.cpp](https://leetcode.com/problems/jump game iii/1306 jump game iii.cpp)
 - [powx n/0050 powx n.cpp](https://leetcode.com/problems/powx n/0050 powx n.cpp)
 - [cyclically rotating a grid/1914 cyclically rotating a grid.cpp](https://leetcode.com/problems/cyclically rotating a grid/1914 cyclically rotating a grid.cpp)
+- [binary tree level order traversal/0102 binary tree level order traversal.cpp](https://leetcode.com/problems/binary tree level order traversal/0102 binary tree level order traversal.cpp)
 - [kth largest element in an array/0215 kth largest element in an array.cpp](https://leetcode.com/problems/kth largest element in an array/0215 kth largest element in an array.cpp)
 - [search in a binary search tree/0700 search in a binary search tree.cpp](https://leetcode.com/problems/search in a binary search tree/0700 search in a binary search tree.cpp)
 - [jump game ix/3660 jump game ix.cpp](https://leetcode.com/problems/jump game ix/3660 jump game ix.cpp)
