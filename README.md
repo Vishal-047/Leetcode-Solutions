@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-140
+141
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -36,6 +36,7 @@
 - [powx n/0050 powx n.cpp](https://leetcode.com/problems/powx n/0050 powx n.cpp)
 - [cyclically rotating a grid/1914 cyclically rotating a grid.cpp](https://leetcode.com/problems/cyclically rotating a grid/1914 cyclically rotating a grid.cpp)
 - [kth largest element in an array/0215 kth largest element in an array.cpp](https://leetcode.com/problems/kth largest element in an array/0215 kth largest element in an array.cpp)
+- [search in a binary search tree/0700 search in a binary search tree.cpp](https://leetcode.com/problems/search in a binary search tree/0700 search in a binary search tree.cpp)
 - [jump game ix/3660 jump game ix.cpp](https://leetcode.com/problems/jump game ix/3660 jump game ix.cpp)
 - [minimum common value/2540 minimum common value.cpp](https://leetcode.com/problems/minimum common value/2540 minimum common value.cpp)
 - [maximum length substring with two occurrences/3090 maximum length substring with two occurrences.cpp](https://leetcode.com/problems/maximum length substring with two occurrences/3090 maximum length substring with two occurrences.cpp)
