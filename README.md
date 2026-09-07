@@ -420,6 +420,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -442,6 +443,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1306-jump-game-iii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
@@ -622,6 +624,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -716,6 +719,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
