@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-144
+145
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -138,6 +138,7 @@
 - [maximum sum of distinct subarrays with length k/2461 maximum sum of distinct subarrays with length k.cpp](https://leetcode.com/problems/maximum sum of distinct subarrays with length k/2461 maximum sum of distinct subarrays with length k.cpp)
 - [left and right sum differences/2574 left and right sum differences.cpp](https://leetcode.com/problems/left and right sum differences/2574 left and right sum differences.cpp)
 - [simplify path/0071 simplify path.cpp](https://leetcode.com/problems/simplify path/0071 simplify path.cpp)
+- [invert binary tree/0226 invert binary tree.cpp](https://leetcode.com/problems/invert binary tree/0226 invert binary tree.cpp)
 - [check if array is sorted and rotated/1752 check if array is sorted and rotated.cpp](https://leetcode.com/problems/check if array is sorted and rotated/1752 check if array is sorted and rotated.cpp)
 - [k th symbol in grammar/0779 k th symbol in grammar.cpp](https://leetcode.com/problems/k th symbol in grammar/0779 k th symbol in grammar.cpp)
 - [angle between hands of a clock/1344 angle between hands of a clock.cpp](https://leetcode.com/problems/angle between hands of a clock/1344 angle between hands of a clock.cpp)
