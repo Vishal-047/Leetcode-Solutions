@@ -312,6 +312,7 @@
 | [0049-group-anagrams](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0394-decode-string) |
@@ -428,6 +429,7 @@
 | [0226-invert-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -634,6 +636,7 @@
 | [0226-invert-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -730,6 +733,7 @@
 | [0226-invert-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -771,4 +775,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
