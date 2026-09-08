@@ -362,6 +362,7 @@
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
 | ------- |
