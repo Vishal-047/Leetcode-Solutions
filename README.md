@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-146
+147
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -104,6 +104,7 @@
 - [longest common suffix queries/3093 longest common suffix queries.cpp](https://leetcode.com/problems/longest common suffix queries/3093 longest common suffix queries.cpp)
 - [decode string/0394 decode string.cpp](https://leetcode.com/problems/decode string/0394 decode string.cpp)
 - [insert into a binary search tree/0701 insert into a binary search tree.cpp](https://leetcode.com/problems/insert into a binary search tree/0701 insert into a binary search tree.cpp)
+- [path sum/0112 path sum.cpp](https://leetcode.com/problems/path sum/0112 path sum.cpp)
 - [binary tree right side view/0199 binary tree right side view.cpp](https://leetcode.com/problems/binary tree right side view/0199 binary tree right side view.cpp)
 - [delete the middle node of a linked list/2095 delete the middle node of a linked list.cpp](https://leetcode.com/problems/delete the middle node of a linked list/2095 delete the middle node of a linked list.cpp)
 - [valid anagram/0242 valid anagram.cpp](https://leetcode.com/problems/valid anagram/0242 valid anagram.cpp)
