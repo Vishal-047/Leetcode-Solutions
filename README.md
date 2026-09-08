@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-147
+148
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -20,6 +20,7 @@
 - [remove outermost parentheses/1021 remove outermost parentheses.cpp](https://leetcode.com/problems/remove outermost parentheses/1021 remove outermost parentheses.cpp)
 - [binary tree postorder traversal/0145 binary tree postorder traversal.cpp](https://leetcode.com/problems/binary tree postorder traversal/0145 binary tree postorder traversal.cpp)
 - [total waviness of numbers in range ii/3753 total waviness of numbers in range ii.cpp](https://leetcode.com/problems/total waviness of numbers in range ii/3753 total waviness of numbers in range ii.cpp)
+- [binary tree paths/0257 binary tree paths.cpp](https://leetcode.com/problems/binary tree paths/0257 binary tree paths.cpp)
 - [count the number of special characters i/3120 count the number of special characters i.cpp](https://leetcode.com/problems/count the number of special characters i/3120 count the number of special characters i.cpp)
 - [merge sorted array/0088 merge sorted array.cpp](https://leetcode.com/problems/merge sorted array/0088 merge sorted array.cpp)
 - [remove all adjacent duplicates in string/1047 remove all adjacent duplicates in string.cpp](https://leetcode.com/problems/remove all adjacent duplicates in string/1047 remove all adjacent duplicates in string.cpp)
