@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-145
+146
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -152,6 +152,7 @@
 - [minimum add to make parentheses valid/0921 minimum add to make parentheses valid.cpp](https://leetcode.com/problems/minimum add to make parentheses valid/0921 minimum add to make parentheses valid.cpp)
 - [maximum score from grid operations/3225 maximum score from grid operations.cpp](https://leetcode.com/problems/maximum score from grid operations/3225 maximum score from grid operations.cpp)
 - [two sum iv input is a bst/0653 two sum iv input is a bst.cpp](https://leetcode.com/problems/two sum iv input is a bst/0653 two sum iv input is a bst.cpp)
+- [count commas in range/3870 count commas in range.cpp](https://leetcode.com/problems/count commas in range/3870 count commas in range.cpp)
 - [symmetric tree/0101 symmetric tree.cpp](https://leetcode.com/problems/symmetric tree/0101 symmetric tree.cpp)
 - [process string with special operations ii/3614 process string with special operations ii.cpp](https://leetcode.com/problems/process string with special operations ii/3614 process string with special operations ii.cpp)
 - [maximum depth of binary tree/0104 maximum depth of binary tree.cpp](https://leetcode.com/problems/maximum depth of binary tree/0104 maximum depth of binary tree.cpp)
