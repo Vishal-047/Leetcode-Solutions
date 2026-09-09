@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-150
+151
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -137,6 +137,7 @@
 - [matrix diagonal sum/1572 matrix diagonal sum.cpp](https://leetcode.com/problems/matrix diagonal sum/1572 matrix diagonal sum.cpp)
 - [earliest finish time for land and water rides i/3633 earliest finish time for land and water rides i.cpp](https://leetcode.com/problems/earliest finish time for land and water rides i/3633 earliest finish time for land and water rides i.cpp)
 - [check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp](https://leetcode.com/problems/check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp)
+- [sum root to leaf numbers/0129 sum root to leaf numbers.cpp](https://leetcode.com/problems/sum root to leaf numbers/0129 sum root to leaf numbers.cpp)
 - [maximum number of balloons/1189 maximum number of balloons.cpp](https://leetcode.com/problems/maximum number of balloons/1189 maximum number of balloons.cpp)
 - [maximum sum of distinct subarrays with length k/2461 maximum sum of distinct subarrays with length k.cpp](https://leetcode.com/problems/maximum sum of distinct subarrays with length k/2461 maximum sum of distinct subarrays with length k.cpp)
 - [left and right sum differences/2574 left and right sum differences.cpp](https://leetcode.com/problems/left and right sum differences/2574 left and right sum differences.cpp)
