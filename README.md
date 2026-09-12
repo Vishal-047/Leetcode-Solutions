@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-153
+154
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -102,6 +102,7 @@
 - [magnetic force between two balls/1552 magnetic force between two balls.cpp](https://leetcode.com/problems/magnetic force between two balls/1552 magnetic force between two balls.cpp)
 - [validate binary search tree/0098 validate binary search tree.cpp](https://leetcode.com/problems/validate binary search tree/0098 validate binary search tree.cpp)
 - [two sum/0001 two sum.cpp](https://leetcode.com/problems/two sum/0001 two sum.cpp)
+- [sum of left leaves/0404 sum of left leaves.cpp](https://leetcode.com/problems/sum of left leaves/0404 sum of left leaves.cpp)
 - [backspace string compare/0844 backspace string compare.cpp](https://leetcode.com/problems/backspace string compare/0844 backspace string compare.cpp)
 - [longest common suffix queries/3093 longest common suffix queries.cpp](https://leetcode.com/problems/longest common suffix queries/3093 longest common suffix queries.cpp)
 - [decode string/0394 decode string.cpp](https://leetcode.com/problems/decode string/0394 decode string.cpp)
