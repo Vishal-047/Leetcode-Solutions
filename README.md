@@ -289,6 +289,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
@@ -338,6 +339,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1871-jump-game-vii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -418,6 +420,7 @@
 | [0506-relative-ranks](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0767-reorganize-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [1340-jump-game-v](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1340-jump-game-v) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -580,6 +583,7 @@
 | ------- |
 | [0767-reorganize-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
