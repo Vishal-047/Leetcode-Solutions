@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-157
+158
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -55,6 +55,7 @@
 - [minimum element after replacement with digit sum/3300 minimum element after replacement with digit sum.cpp](https://leetcode.com/problems/minimum element after replacement with digit sum/3300 minimum element after replacement with digit sum.cpp)
 - [baseball game/0682 baseball game.py](https://leetcode.com/problems/baseball game/0682 baseball game.py)
 - [sum of gcd of formed pairs/3867 sum of gcd of formed pairs.cpp](https://leetcode.com/problems/sum of gcd of formed pairs/3867 sum of gcd of formed pairs.cpp)
+- [maximum number of non overlapping substrings/1520 maximum number of non overlapping substrings.cpp](https://leetcode.com/problems/maximum number of non overlapping substrings/1520 maximum number of non overlapping substrings.cpp)
 - [minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp](https://leetcode.com/problems/minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp)
 - [richest customer wealth/1672 richest customer wealth.cpp](https://leetcode.com/problems/richest customer wealth/1672 richest customer wealth.cpp)
 - [check if array is good/2784 check if array is good.cpp](https://leetcode.com/problems/check if array is good/2784 check if array is good.cpp)
