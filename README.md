@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-158
+159
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -19,6 +19,7 @@
 - [binary subarrays with sum/0930 binary subarrays with sum.cpp](https://leetcode.com/problems/binary subarrays with sum/0930 binary subarrays with sum.cpp)
 - [remove outermost parentheses/1021 remove outermost parentheses.cpp](https://leetcode.com/problems/remove outermost parentheses/1021 remove outermost parentheses.cpp)
 - [binary tree postorder traversal/0145 binary tree postorder traversal.cpp](https://leetcode.com/problems/binary tree postorder traversal/0145 binary tree postorder traversal.cpp)
+- [reverse degree of a string/3498 reverse degree of a string.cpp](https://leetcode.com/problems/reverse degree of a string/3498 reverse degree of a string.cpp)
 - [total waviness of numbers in range ii/3753 total waviness of numbers in range ii.cpp](https://leetcode.com/problems/total waviness of numbers in range ii/3753 total waviness of numbers in range ii.cpp)
 - [binary tree paths/0257 binary tree paths.cpp](https://leetcode.com/problems/binary tree paths/0257 binary tree paths.cpp)
 - [count the number of special characters i/3120 count the number of special characters i.cpp](https://leetcode.com/problems/count the number of special characters i/3120 count the number of special characters i.cpp)
