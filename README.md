@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-159
+160
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -62,6 +62,7 @@
 - [check if array is good/2784 check if array is good.cpp](https://leetcode.com/problems/check if array is good/2784 check if array is good.cpp)
 - [longest substring without repeating characters/0003 longest substring without repeating characters.cpp](https://leetcode.com/problems/longest substring without repeating characters/0003 longest substring without repeating characters.cpp)
 - [total waviness of numbers in range i/3751 total waviness of numbers in range i.cpp](https://leetcode.com/problems/total waviness of numbers in range i/3751 total waviness of numbers in range i.cpp)
+- [pascals triangle ii/0119 pascals triangle ii.java](https://leetcode.com/problems/pascals triangle ii/0119 pascals triangle ii.java)
 - [closest equal element queries/3488 closest equal element queries.cpp](https://leetcode.com/problems/closest equal element queries/3488 closest equal element queries.cpp)
 - [first unique character in a string/0387 first unique character in a string.cpp](https://leetcode.com/problems/first unique character in a string/0387 first unique character in a string.cpp)
 - [concatenate non zero digits and multiply by sum i/3754 concatenate non zero digits and multiply by sum i.cpp](https://leetcode.com/problems/concatenate non zero digits and multiply by sum i/3754 concatenate non zero digits and multiply by sum i.cpp)
