@@ -326,6 +326,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -715,6 +716,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -827,4 +829,8 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
