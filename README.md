@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-161
+162
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -94,6 +94,7 @@
 - [two sum/0001 two sum.cpp](https://leetcode.com/problems/two sum/0001 two sum.cpp)
 - [path sum ii/0113 path sum ii.cpp](https://leetcode.com/problems/path sum ii/0113 path sum ii.cpp)
 - [minimum cost of buying candies with discount/2144 minimum cost of buying candies with discount.cpp](https://leetcode.com/problems/minimum cost of buying candies with discount/2144 minimum cost of buying candies with discount.cpp)
+- [longest valid parentheses/0032 longest valid parentheses.cpp](https://leetcode.com/problems/longest valid parentheses/0032 longest valid parentheses.cpp)
 - [binary tree zigzag level order traversal/0103 binary tree zigzag level order traversal.cpp](https://leetcode.com/problems/binary tree zigzag level order traversal/0103 binary tree zigzag level order traversal.cpp)
 - [online stock span/0901 online stock span.cpp](https://leetcode.com/problems/online stock span/0901 online stock span.cpp)
 - [reverse degree of a string/3498 reverse degree of a string.cpp](https://leetcode.com/problems/reverse degree of a string/3498 reverse degree of a string.cpp)
