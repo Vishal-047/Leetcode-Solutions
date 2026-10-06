@@ -839,4 +839,5 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
