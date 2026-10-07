@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-162
+163
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -75,6 +75,7 @@
 - [min stack/0155 min stack.cpp](https://leetcode.com/problems/min stack/0155 min stack.cpp)
 - [lowest common ancestor of a binary tree/0236 lowest common ancestor of a binary tree.cpp](https://leetcode.com/problems/lowest common ancestor of a binary tree/0236 lowest common ancestor of a binary tree.cpp)
 - [check if array is good/2784 check if array is good.cpp](https://leetcode.com/problems/check if array is good/2784 check if array is good.cpp)
+- [remove invalid parentheses/0301 remove invalid parentheses.cpp](https://leetcode.com/problems/remove invalid parentheses/0301 remove invalid parentheses.cpp)
 - [delete node in a linked list/0237 delete node in a linked list.cpp](https://leetcode.com/problems/delete node in a linked list/0237 delete node in a linked list.cpp)
 - [two sum iv input is a bst/0653 two sum iv input is a bst.cpp](https://leetcode.com/problems/two sum iv input is a bst/0653 two sum iv input is a bst.cpp)
 - [group anagrams/0049 group anagrams.cpp](https://leetcode.com/problems/group anagrams/0049 group anagrams.cpp)
