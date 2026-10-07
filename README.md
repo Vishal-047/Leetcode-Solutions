@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-163
+162
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -75,7 +75,6 @@
 - [min stack/0155 min stack.cpp](https://leetcode.com/problems/min stack/0155 min stack.cpp)
 - [lowest common ancestor of a binary tree/0236 lowest common ancestor of a binary tree.cpp](https://leetcode.com/problems/lowest common ancestor of a binary tree/0236 lowest common ancestor of a binary tree.cpp)
 - [check if array is good/2784 check if array is good.cpp](https://leetcode.com/problems/check if array is good/2784 check if array is good.cpp)
-- [remove invalid parentheses/0301 remove invalid parentheses.cpp](https://leetcode.com/problems/remove invalid parentheses/0301 remove invalid parentheses.cpp)
 - [delete node in a linked list/0237 delete node in a linked list.cpp](https://leetcode.com/problems/delete node in a linked list/0237 delete node in a linked list.cpp)
 - [two sum iv input is a bst/0653 two sum iv input is a bst.cpp](https://leetcode.com/problems/two sum iv input is a bst/0653 two sum iv input is a bst.cpp)
 - [group anagrams/0049 group anagrams.cpp](https://leetcode.com/problems/group anagrams/0049 group anagrams.cpp)
@@ -335,6 +334,7 @@
 | [0071-simplify-path](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0394-decode-string) |
@@ -486,6 +486,7 @@
 | [0112-path-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -835,6 +836,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
