@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-164
+165
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -153,6 +153,7 @@
 - [longest repeating character replacement/0424 longest repeating character replacement.cpp](https://leetcode.com/problems/longest repeating character replacement/0424 longest repeating character replacement.cpp)
 - [diameter of binary tree/0543 diameter of binary tree.cpp](https://leetcode.com/problems/diameter of binary tree/0543 diameter of binary tree.cpp)
 - [left and right sum differences/2574 left and right sum differences.cpp](https://leetcode.com/problems/left and right sum differences/2574 left and right sum differences.cpp)
+- [minimum sum of squared difference/2333 minimum sum of squared difference.cpp](https://leetcode.com/problems/minimum sum of squared difference/2333 minimum sum of squared difference.cpp)
 - [minimum add to make parentheses valid/0921 minimum add to make parentheses valid.cpp](https://leetcode.com/problems/minimum add to make parentheses valid/0921 minimum add to make parentheses valid.cpp)
 - [magnetic force between two balls/1552 magnetic force between two balls.cpp](https://leetcode.com/problems/magnetic force between two balls/1552 magnetic force between two balls.cpp)
 - [number of strings that appear as substrings in word/1967 number of strings that appear as substrings in word.cpp](https://leetcode.com/problems/number of strings that appear as substrings in word/1967 number of strings that appear as substrings in word.cpp)
