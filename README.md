@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-165
+166
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -68,6 +68,7 @@
 - [maximum subarray/0053 maximum subarray.cpp](https://leetcode.com/problems/maximum subarray/0053 maximum subarray.cpp)
 - [diagonal traverse/0498 diagonal traverse.cpp](https://leetcode.com/problems/diagonal traverse/0498 diagonal traverse.cpp)
 - [closest equal element queries/3488 closest equal element queries.cpp](https://leetcode.com/problems/closest equal element queries/3488 closest equal element queries.cpp)
+- [sum of squares of special elements/2778 sum of squares of special elements.java](https://leetcode.com/problems/sum of squares of special elements/2778 sum of squares of special elements.java)
 - [number of ways to assign edge weights ii/3559 number of ways to assign edge weights ii.cpp](https://leetcode.com/problems/number of ways to assign edge weights ii/3559 number of ways to assign edge weights ii.cpp)
 - [rotate function/0396 rotate function.cpp](https://leetcode.com/problems/rotate function/0396 rotate function.cpp)
 - [concatenate non zero digits and multiply by sum i/3754 concatenate non zero digits and multiply by sum i.cpp](https://leetcode.com/problems/concatenate non zero digits and multiply by sum i/3754 concatenate non zero digits and multiply by sum i.cpp)
