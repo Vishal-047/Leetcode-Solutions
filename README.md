@@ -393,6 +393,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -615,6 +616,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
