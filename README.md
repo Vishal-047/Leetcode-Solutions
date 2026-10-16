@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-167
+168
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -140,6 +140,7 @@
 - [separate the digits in an array/2553 separate the digits in an array.cpp](https://leetcode.com/problems/separate the digits in an array/2553 separate the digits in an array.cpp)
 - [spiral matrix/0054 spiral matrix.cpp](https://leetcode.com/problems/spiral matrix/0054 spiral matrix.cpp)
 - [next greater element i/0496 next greater element i.cpp](https://leetcode.com/problems/next greater element i/0496 next greater element i.cpp)
+- [subarrays distinct element sum of squares ii/2916 subarrays distinct element sum of squares ii.java](https://leetcode.com/problems/subarrays distinct element sum of squares ii/2916 subarrays distinct element sum of squares ii.java)
 - [merge sorted array/0088 merge sorted array.cpp](https://leetcode.com/problems/merge sorted array/0088 merge sorted array.cpp)
 - [lowest common ancestor of a binary search tree/0235 lowest common ancestor of a binary search tree.cpp](https://leetcode.com/problems/lowest common ancestor of a binary search tree/0235 lowest common ancestor of a binary search tree.cpp)
 - [rotate image/0048 rotate image.cpp](https://leetcode.com/problems/rotate image/0048 rotate image.cpp)
