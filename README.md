@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-168
+169
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -122,6 +122,7 @@
 - [count negative numbers in a sorted matrix/1351 count negative numbers in a sorted matrix.cpp](https://leetcode.com/problems/count negative numbers in a sorted matrix/1351 count negative numbers in a sorted matrix.cpp)
 - [search a 2d matrix/0074 search a 2d matrix.cpp](https://leetcode.com/problems/search a 2d matrix/0074 search a 2d matrix.cpp)
 - [kth largest element in an array/0215 kth largest element in an array.cpp](https://leetcode.com/problems/kth largest element in an array/0215 kth largest element in an array.cpp)
+- [subarrays distinct element sum of squares i/2913 subarrays distinct element sum of squares i.cpp](https://leetcode.com/problems/subarrays distinct element sum of squares i/2913 subarrays distinct element sum of squares i.cpp)
 - [binary tree inorder traversal/0094 binary tree inorder traversal.cpp](https://leetcode.com/problems/binary tree inorder traversal/0094 binary tree inorder traversal.cpp)
 - [last stone weight/1046 last stone weight.cpp](https://leetcode.com/problems/last stone weight/1046 last stone weight.cpp)
 - [matrix diagonal sum/1572 matrix diagonal sum.cpp](https://leetcode.com/problems/matrix diagonal sum/1572 matrix diagonal sum.cpp)
