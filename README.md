@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-170
+171
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -24,6 +24,7 @@
 - [validate binary search tree/0098 validate binary search tree.cpp](https://leetcode.com/problems/validate binary search tree/0098 validate binary search tree.cpp)
 - [minimum element after replacement with digit sum/3300 minimum element after replacement with digit sum.cpp](https://leetcode.com/problems/minimum element after replacement with digit sum/3300 minimum element after replacement with digit sum.cpp)
 - [maximum alternating sum of squares/3727 maximum alternating sum of squares.cpp](https://leetcode.com/problems/maximum alternating sum of squares/3727 maximum alternating sum of squares.cpp)
+- [apply operations on array to maximize sum of squares/2897 apply operations on array to maximize sum of squares.cpp](https://leetcode.com/problems/apply operations on array to maximize sum of squares/2897 apply operations on array to maximize sum of squares.cpp)
 - [remove outermost parentheses/1021 remove outermost parentheses.cpp](https://leetcode.com/problems/remove outermost parentheses/1021 remove outermost parentheses.cpp)
 - [angle between hands of a clock/1344 angle between hands of a clock.cpp](https://leetcode.com/problems/angle between hands of a clock/1344 angle between hands of a clock.cpp)
 - [binary tree paths/0257 binary tree paths.cpp](https://leetcode.com/problems/binary tree paths/0257 binary tree paths.cpp)
