@@ -265,6 +265,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
@@ -314,6 +315,7 @@
 | [2540-minimum-common-value](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -624,6 +626,7 @@
 | [2126-destroying-asteroids](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -662,6 +665,7 @@
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Trie
 |  |
