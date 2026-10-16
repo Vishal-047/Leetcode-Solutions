@@ -262,6 +262,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
@@ -308,6 +309,7 @@
 | [2540-minimum-common-value](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -660,10 +662,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
