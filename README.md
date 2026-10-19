@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-171
+172
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -155,6 +155,7 @@
 - [maximum ice cream bars/1833 maximum ice cream bars.cpp](https://leetcode.com/problems/maximum ice cream bars/1833 maximum ice cream bars.cpp)
 - [rotated digits/0788 rotated digits.cpp](https://leetcode.com/problems/rotated digits/0788 rotated digits.cpp)
 - [delete node in a bst/0450 delete node in a bst.cpp](https://leetcode.com/problems/delete node in a bst/0450 delete node in a bst.cpp)
+- [find target indices after sorting array/2089 find target indices after sorting array.java](https://leetcode.com/problems/find target indices after sorting array/2089 find target indices after sorting array.java)
 - [longest repeating character replacement/0424 longest repeating character replacement.cpp](https://leetcode.com/problems/longest repeating character replacement/0424 longest repeating character replacement.cpp)
 - [diameter of binary tree/0543 diameter of binary tree.cpp](https://leetcode.com/problems/diameter of binary tree/0543 diameter of binary tree.cpp)
 - [left and right sum differences/2574 left and right sum differences.cpp](https://leetcode.com/problems/left and right sum differences/2574 left and right sum differences.cpp)
