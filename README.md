@@ -289,6 +289,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -414,6 +415,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -469,6 +471,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -694,6 +697,7 @@
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3886-sum-of-sortable-integers](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Tree
 |  |
 | ------- |
