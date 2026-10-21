@@ -383,6 +383,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
 |  |
 | ------- |
