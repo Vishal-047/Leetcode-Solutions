@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-174
+175
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -174,6 +174,7 @@
 - [smallest missing multiple of k/3718 smallest missing multiple of k.cpp](https://leetcode.com/problems/smallest missing multiple of k/3718 smallest missing multiple of k.cpp)
 - [find minimum in rotated sorted array/0153 find minimum in rotated sorted array.cpp](https://leetcode.com/problems/find minimum in rotated sorted array/0153 find minimum in rotated sorted array.cpp)
 - [maximize sum of squares of digits/3723 maximize sum of squares of digits.cpp](https://leetcode.com/problems/maximize sum of squares of digits/3723 maximize sum of squares of digits.cpp)
+- [minimum operations to sort a permutation/3942 minimum operations to sort a permutation.cpp](https://leetcode.com/problems/minimum operations to sort a permutation/3942 minimum operations to sort a permutation.cpp)
 - [jump game vii/1871 jump game vii.cpp](https://leetcode.com/problems/jump game vii/1871 jump game vii.cpp)
 - [richest customer wealth/1672 richest customer wealth.cpp](https://leetcode.com/problems/richest customer wealth/1672 richest customer wealth.cpp)
 - [symmetric tree/0101 symmetric tree.cpp](https://leetcode.com/problems/symmetric tree/0101 symmetric tree.cpp)
