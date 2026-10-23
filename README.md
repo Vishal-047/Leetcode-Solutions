@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-175
+176
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -76,6 +76,7 @@
 - [concatenate non zero digits and multiply by sum i/3754 concatenate non zero digits and multiply by sum i.cpp](https://leetcode.com/problems/concatenate non zero digits and multiply by sum i/3754 concatenate non zero digits and multiply by sum i.cpp)
 - [unique binary search trees ii/0095 unique binary search trees ii.cpp](https://leetcode.com/problems/unique binary search trees ii/0095 unique binary search trees ii.cpp)
 - [min stack/0155 min stack.cpp](https://leetcode.com/problems/min stack/0155 min stack.cpp)
+- [maximum k to sort a permutation/3644 maximum k to sort a permutation.cpp](https://leetcode.com/problems/maximum k to sort a permutation/3644 maximum k to sort a permutation.cpp)
 - [minimum insertions to balance a parentheses string/1541 minimum insertions to balance a parentheses string.cpp](https://leetcode.com/problems/minimum insertions to balance a parentheses string/1541 minimum insertions to balance a parentheses string.cpp)
 - [lowest common ancestor of a binary tree/0236 lowest common ancestor of a binary tree.cpp](https://leetcode.com/problems/lowest common ancestor of a binary tree/0236 lowest common ancestor of a binary tree.cpp)
 - [check if array is good/2784 check if array is good.cpp](https://leetcode.com/problems/check if array is good/2784 check if array is good.cpp)
