@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-178
+179
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -67,6 +67,7 @@
 - [relative ranks/0506 relative ranks.cpp](https://leetcode.com/problems/relative ranks/0506 relative ranks.cpp)
 - [average of levels in binary tree/0637 average of levels in binary tree.cpp](https://leetcode.com/problems/average of levels in binary tree/0637 average of levels in binary tree.cpp)
 - [remove nth node from end of list/0019 remove nth node from end of list.cpp](https://leetcode.com/problems/remove nth node from end of list/0019 remove nth node from end of list.cpp)
+- [maximum subarray/0053 maximum subarray.java](https://leetcode.com/problems/maximum subarray/0053 maximum subarray.java)
 - [maximum subarray/0053 maximum subarray.cpp](https://leetcode.com/problems/maximum subarray/0053 maximum subarray.cpp)
 - [diagonal traverse/0498 diagonal traverse.cpp](https://leetcode.com/problems/diagonal traverse/0498 diagonal traverse.cpp)
 - [closest equal element queries/3488 closest equal element queries.cpp](https://leetcode.com/problems/closest equal element queries/3488 closest equal element queries.cpp)
