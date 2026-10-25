@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-177
+178
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -175,6 +175,7 @@
 - [smallest missing multiple of k/3718 smallest missing multiple of k.cpp](https://leetcode.com/problems/smallest missing multiple of k/3718 smallest missing multiple of k.cpp)
 - [find minimum in rotated sorted array/0153 find minimum in rotated sorted array.cpp](https://leetcode.com/problems/find minimum in rotated sorted array/0153 find minimum in rotated sorted array.cpp)
 - [maximize sum of squares of digits/3723 maximize sum of squares of digits.cpp](https://leetcode.com/problems/maximize sum of squares of digits/3723 maximize sum of squares of digits.cpp)
+- [number of closed islands/1254 number of closed islands.cpp](https://leetcode.com/problems/number of closed islands/1254 number of closed islands.cpp)
 - [minimum operations to sort a permutation/3942 minimum operations to sort a permutation.cpp](https://leetcode.com/problems/minimum operations to sort a permutation/3942 minimum operations to sort a permutation.cpp)
 - [count days spent together/2409 count days spent together.java](https://leetcode.com/problems/count days spent together/2409 count days spent together.java)
 - [jump game vii/1871 jump game vii.cpp](https://leetcode.com/problems/jump game vii/1871 jump game vii.cpp)
