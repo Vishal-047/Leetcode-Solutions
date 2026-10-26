@@ -287,6 +287,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -517,6 +518,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -540,6 +542,7 @@
 | [1345-jump-game-iv](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
 |  |
@@ -548,6 +551,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -566,6 +570,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Prefix Sum
 |  |
