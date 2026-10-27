@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-180
+181
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -91,6 +91,7 @@
 - [cyclically rotating a grid/1914 cyclically rotating a grid.cpp](https://leetcode.com/problems/cyclically rotating a grid/1914 cyclically rotating a grid.cpp)
 - [daily temperatures/0739 daily temperatures.cpp](https://leetcode.com/problems/daily temperatures/0739 daily temperatures.cpp)
 - [insert into a binary search tree/0701 insert into a binary search tree.cpp](https://leetcode.com/problems/insert into a binary search tree/0701 insert into a binary search tree.cpp)
+- [create grid with exactly one path/3963 create grid with exactly one path.cpp](https://leetcode.com/problems/create grid with exactly one path/3963 create grid with exactly one path.cpp)
 - [implement stack using queues/0225 implement stack using queues.cpp](https://leetcode.com/problems/implement stack using queues/0225 implement stack using queues.cpp)
 - [count commas in range/3870 count commas in range.cpp](https://leetcode.com/problems/count commas in range/3870 count commas in range.cpp)
 - [count subarrays with majority element i/3737 count subarrays with majority element i.cpp](https://leetcode.com/problems/count subarrays with majority element i/3737 count subarrays with majority element i.cpp)
