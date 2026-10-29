@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-182
+183
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -67,6 +67,7 @@
 - [rotate image/0048 rotate image.cpp](https://leetcode.com/problems/rotate image/0048 rotate image.cpp)
 - [minimum cost of buying candies with discount/2144 minimum cost of buying candies with discount.cpp](https://leetcode.com/problems/minimum cost of buying candies with discount/2144 minimum cost of buying candies with discount.cpp)
 - [reverse string/0344 reverse string.cpp](https://leetcode.com/problems/reverse string/0344 reverse string.cpp)
+- [palindromic path queries in a tree/3841 palindromic path queries in a tree.cpp](https://leetcode.com/problems/palindromic path queries in a tree/3841 palindromic path queries in a tree.cpp)
 - [average of levels in binary tree/0637 average of levels in binary tree.cpp](https://leetcode.com/problems/average of levels in binary tree/0637 average of levels in binary tree.cpp)
 - [minimum insertions to balance a parentheses string/1541 minimum insertions to balance a parentheses string.cpp](https://leetcode.com/problems/minimum insertions to balance a parentheses string/1541 minimum insertions to balance a parentheses string.cpp)
 - [fruit into baskets/0904 fruit into baskets.cpp](https://leetcode.com/problems/fruit into baskets/0904 fruit into baskets.cpp)
