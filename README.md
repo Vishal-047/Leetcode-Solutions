@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-183
+184
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -61,6 +61,7 @@
 - [binary tree maximum path sum/0124 binary tree maximum path sum.cpp](https://leetcode.com/problems/binary tree maximum path sum/0124 binary tree maximum path sum.cpp)
 - [validate binary search tree/0098 validate binary search tree.cpp](https://leetcode.com/problems/validate binary search tree/0098 validate binary search tree.cpp)
 - [relative ranks/0506 relative ranks.cpp](https://leetcode.com/problems/relative ranks/0506 relative ranks.cpp)
+- [shortest path with at most k consecutive identical characters/3970 shortest path with at most k consecutive identical characters.cpp](https://leetcode.com/problems/shortest path with at most k consecutive identical characters/3970 shortest path with at most k consecutive identical characters.cpp)
 - [daily temperatures/0739 daily temperatures.cpp](https://leetcode.com/problems/daily temperatures/0739 daily temperatures.cpp)
 - [longest common suffix queries/3093 longest common suffix queries.cpp](https://leetcode.com/problems/longest common suffix queries/3093 longest common suffix queries.cpp)
 - [longest repeating character replacement/0424 longest repeating character replacement.cpp](https://leetcode.com/problems/longest repeating character replacement/0424 longest repeating character replacement.cpp)
