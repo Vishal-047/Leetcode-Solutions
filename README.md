@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-185
+186
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -112,6 +112,7 @@
 - [search in a binary search tree/0700 search in a binary search tree.cpp](https://leetcode.com/problems/search in a binary search tree/0700 search in a binary search tree.cpp)
 - [maximum number of jumps to reach the last index/2770 maximum number of jumps to reach the last index.cpp](https://leetcode.com/problems/maximum number of jumps to reach the last index/2770 maximum number of jumps to reach the last index.cpp)
 - [smallest missing multiple of k/3718 smallest missing multiple of k.cpp](https://leetcode.com/problems/smallest missing multiple of k/3718 smallest missing multiple of k.cpp)
+- [minimum moves to equal array elements/0453 minimum moves to equal array elements.cpp](https://leetcode.com/problems/minimum moves to equal array elements/0453 minimum moves to equal array elements.cpp)
 - [lowest common ancestor of a binary search tree/0235 lowest common ancestor of a binary search tree.cpp](https://leetcode.com/problems/lowest common ancestor of a binary search tree/0235 lowest common ancestor of a binary search tree.cpp)
 - [count the number of special characters ii/3121 count the number of special characters ii.cpp](https://leetcode.com/problems/count the number of special characters ii/3121 count the number of special characters ii.cpp)
 - [subarrays distinct element sum of squares i/2913 subarrays distinct element sum of squares i.cpp](https://leetcode.com/problems/subarrays distinct element sum of squares i/2913 subarrays distinct element sum of squares i.cpp)
