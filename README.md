@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-186
+187
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -181,6 +181,7 @@
 - [cyclically rotating a grid/1914 cyclically rotating a grid.cpp](https://leetcode.com/problems/cyclically rotating a grid/1914 cyclically rotating a grid.cpp)
 - [maximum alternating sum of squares/3727 maximum alternating sum of squares.cpp](https://leetcode.com/problems/maximum alternating sum of squares/3727 maximum alternating sum of squares.cpp)
 - [remove duplicates from sorted list/0083 remove duplicates from sorted list.cpp](https://leetcode.com/problems/remove duplicates from sorted list/0083 remove duplicates from sorted list.cpp)
+- [minimum moves to equal array elements ii/0462 minimum moves to equal array elements ii.cpp](https://leetcode.com/problems/minimum moves to equal array elements ii/0462 minimum moves to equal array elements ii.cpp)
 - [minimum absolute difference in bst/0530 minimum absolute difference in bst.cpp](https://leetcode.com/problems/minimum absolute difference in bst/0530 minimum absolute difference in bst.cpp)
 - [number of ways to assign edge weights ii/3559 number of ways to assign edge weights ii.cpp](https://leetcode.com/problems/number of ways to assign edge weights ii/3559 number of ways to assign edge weights ii.cpp)
 - [earliest finish time for land and water rides ii/3635 earliest finish time for land and water rides ii.cpp](https://leetcode.com/problems/earliest finish time for land and water rides ii/3635 earliest finish time for land and water rides ii.cpp)
