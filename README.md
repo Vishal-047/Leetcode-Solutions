@@ -306,6 +306,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -440,6 +441,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
