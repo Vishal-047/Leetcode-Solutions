@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-187
+188
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -66,6 +66,7 @@
 - [longest common suffix queries/3093 longest common suffix queries.cpp](https://leetcode.com/problems/longest common suffix queries/3093 longest common suffix queries.cpp)
 - [longest repeating character replacement/0424 longest repeating character replacement.cpp](https://leetcode.com/problems/longest repeating character replacement/0424 longest repeating character replacement.cpp)
 - [rotate image/0048 rotate image.cpp](https://leetcode.com/problems/rotate image/0048 rotate image.cpp)
+- [minimum moves to equal array elements iii/3736 minimum moves to equal array elements iii.cpp](https://leetcode.com/problems/minimum moves to equal array elements iii/3736 minimum moves to equal array elements iii.cpp)
 - [minimum cost of buying candies with discount/2144 minimum cost of buying candies with discount.cpp](https://leetcode.com/problems/minimum cost of buying candies with discount/2144 minimum cost of buying candies with discount.cpp)
 - [reverse string/0344 reverse string.cpp](https://leetcode.com/problems/reverse string/0344 reverse string.cpp)
 - [palindromic path queries in a tree/3841 palindromic path queries in a tree.cpp](https://leetcode.com/problems/palindromic path queries in a tree/3841 palindromic path queries in a tree.cpp)
