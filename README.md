@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-188
+189
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -72,6 +72,7 @@
 - [palindromic path queries in a tree/3841 palindromic path queries in a tree.cpp](https://leetcode.com/problems/palindromic path queries in a tree/3841 palindromic path queries in a tree.cpp)
 - [average of levels in binary tree/0637 average of levels in binary tree.cpp](https://leetcode.com/problems/average of levels in binary tree/0637 average of levels in binary tree.cpp)
 - [minimum insertions to balance a parentheses string/1541 minimum insertions to balance a parentheses string.cpp](https://leetcode.com/problems/minimum insertions to balance a parentheses string/1541 minimum insertions to balance a parentheses string.cpp)
+- [minimum operations to make elements within k subarrays equal/3505 minimum operations to make elements within k subarrays equal.cpp](https://leetcode.com/problems/minimum operations to make elements within k subarrays equal/3505 minimum operations to make elements within k subarrays equal.cpp)
 - [fruit into baskets/0904 fruit into baskets.cpp](https://leetcode.com/problems/fruit into baskets/0904 fruit into baskets.cpp)
 - [minimum operations to sort a string/3863 minimum operations to sort a string.cpp](https://leetcode.com/problems/minimum operations to sort a string/3863 minimum operations to sort a string.cpp)
 - [maximum length substring with two occurrences/3090 maximum length substring with two occurrences.cpp](https://leetcode.com/problems/maximum length substring with two occurrences/3090 maximum length substring with two occurrences.cpp)
