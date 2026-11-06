@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-189
+190
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -81,6 +81,7 @@
 - [longest valid parentheses/0032 longest valid parentheses.cpp](https://leetcode.com/problems/longest valid parentheses/0032 longest valid parentheses.cpp)
 - [process string with special operations ii/3614 process string with special operations ii.cpp](https://leetcode.com/problems/process string with special operations ii/3614 process string with special operations ii.cpp)
 - [rotate string/0796 rotate string.cpp](https://leetcode.com/problems/rotate string/0796 rotate string.cpp)
+- [count zero request servers/2747 count zero request servers.cpp](https://leetcode.com/problems/count zero request servers/2747 count zero request servers.cpp)
 - [kth largest element in an array/0215 kth largest element in an array.cpp](https://leetcode.com/problems/kth largest element in an array/0215 kth largest element in an array.cpp)
 - [last stone weight/1046 last stone weight.cpp](https://leetcode.com/problems/last stone weight/1046 last stone weight.cpp)
 - [find the highest altitude/1732 find the highest altitude.cpp](https://leetcode.com/problems/find the highest altitude/1732 find the highest altitude.cpp)
