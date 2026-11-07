@@ -305,6 +305,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -363,6 +364,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -517,6 +519,7 @@
 | [2747-count-zero-request-servers](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
