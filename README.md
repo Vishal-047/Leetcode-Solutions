@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-190
+191
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -28,6 +28,7 @@
 - [decode string/0394 decode string.cpp](https://leetcode.com/problems/decode string/0394 decode string.cpp)
 - [reverse nodes in k group/0025 reverse nodes in k group.cpp](https://leetcode.com/problems/reverse nodes in k group/0025 reverse nodes in k group.cpp)
 - [maximum k to sort a permutation/3644 maximum k to sort a permutation.cpp](https://leetcode.com/problems/maximum k to sort a permutation/3644 maximum k to sort a permutation.cpp)
+- [process tasks using servers/1882 process tasks using servers.cpp](https://leetcode.com/problems/process tasks using servers/1882 process tasks using servers.cpp)
 - [maximum subarray/0053 maximum subarray.java](https://leetcode.com/problems/maximum subarray/0053 maximum subarray.java)
 - [maximum subarray/0053 maximum subarray.cpp](https://leetcode.com/problems/maximum subarray/0053 maximum subarray.cpp)
 - [minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp](https://leetcode.com/problems/minimum operations to make a uni value grid/2033 minimum operations to make a uni value grid.cpp)
