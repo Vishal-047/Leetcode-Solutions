@@ -273,6 +273,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1861-rotating-the-box](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
+| [1882-process-tasks-using-servers](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -718,6 +719,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [1882-process-tasks-using-servers](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
