@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-191
+192
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -176,6 +176,7 @@
 - [simplify path/0071 simplify path.cpp](https://leetcode.com/problems/simplify path/0071 simplify path.cpp)
 - [minimum depth of binary tree/0111 minimum depth of binary tree.cpp](https://leetcode.com/problems/minimum depth of binary tree/0111 minimum depth of binary tree.cpp)
 - [reverse degree of a string/3498 reverse degree of a string.cpp](https://leetcode.com/problems/reverse degree of a string/3498 reverse degree of a string.cpp)
+- [number of ways to reorder array to get same bst/1569 number of ways to reorder array to get same bst.cpp](https://leetcode.com/problems/number of ways to reorder array to get same bst/1569 number of ways to reorder array to get same bst.cpp)
 - [binary tree postorder traversal/0145 binary tree postorder traversal.cpp](https://leetcode.com/problems/binary tree postorder traversal/0145 binary tree postorder traversal.cpp)
 - [path sum ii/0113 path sum ii.cpp](https://leetcode.com/problems/path sum ii/0113 path sum ii.cpp)
 - [diagonal traverse/0498 diagonal traverse.cpp](https://leetcode.com/problems/diagonal traverse/0498 diagonal traverse.cpp)
