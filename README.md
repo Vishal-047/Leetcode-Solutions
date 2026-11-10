@@ -317,6 +317,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -651,6 +652,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
