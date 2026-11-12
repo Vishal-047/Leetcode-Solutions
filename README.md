@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-196
+197
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -122,6 +122,7 @@
 - [sum of left leaves/0404 sum of left leaves.cpp](https://leetcode.com/problems/sum of left leaves/0404 sum of left leaves.cpp)
 - [search in a binary search tree/0700 search in a binary search tree.cpp](https://leetcode.com/problems/search in a binary search tree/0700 search in a binary search tree.cpp)
 - [maximize sum of squares of digits/3723 maximize sum of squares of digits.cpp](https://leetcode.com/problems/maximize sum of squares of digits/3723 maximize sum of squares of digits.cpp)
+- [longest strictly increasing or strictly decreasing subarray/3105 longest strictly increasing or strictly decreasing subarray.cpp](https://leetcode.com/problems/longest strictly increasing or strictly decreasing subarray/3105 longest strictly increasing or strictly decreasing subarray.cpp)
 - [last stone weight/1046 last stone weight.cpp](https://leetcode.com/problems/last stone weight/1046 last stone weight.cpp)
 - [find the highest altitude/1732 find the highest altitude.cpp](https://leetcode.com/problems/find the highest altitude/1732 find the highest altitude.cpp)
 - [minimum swaps to group all 1s together ii/2134 minimum swaps to group all 1s together ii.cpp](https://leetcode.com/problems/minimum swaps to group all 1s together ii/2134 minimum swaps to group all 1s together ii.cpp)
