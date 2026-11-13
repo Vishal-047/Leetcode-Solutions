@@ -8,11 +8,12 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-197
+198
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
 <!-- PROBLEM_LIST_START -->
+- [count non decreasing subarrays after k operations/3420 count non decreasing subarrays after k operations.cpp](https://leetcode.com/problems/count non decreasing subarrays after k operations/3420 count non decreasing subarrays after k operations.cpp)
 - [find pivot index/0724 find pivot index.cpp](https://leetcode.com/problems/find pivot index/0724 find pivot index.cpp)
 - [minimum moves to equal array elements/0453 minimum moves to equal array elements.cpp](https://leetcode.com/problems/minimum moves to equal array elements/0453 minimum moves to equal array elements.cpp)
 - [number of ways to assign edge weights i/3558 number of ways to assign edge weights i.cpp](https://leetcode.com/problems/number of ways to assign edge weights i/3558 number of ways to assign edge weights i.cpp)
