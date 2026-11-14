@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-198
+199
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -31,6 +31,7 @@
 - [maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp](https://leetcode.com/problems/maximize the distance between points on a square/3464 maximize the distance between points on a square.cpp)
 - [check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp](https://leetcode.com/problems/check if there is a valid path in a grid/1391 check if there is a valid path in a grid.cpp)
 - [lowest common ancestor of a binary search tree/0235 lowest common ancestor of a binary search tree.cpp](https://leetcode.com/problems/lowest common ancestor of a binary search tree/0235 lowest common ancestor of a binary search tree.cpp)
+- [minimum positive sum subarray/3364 minimum positive sum subarray.cpp](https://leetcode.com/problems/minimum positive sum subarray/3364 minimum positive sum subarray.cpp)
 - [maximum sum of distinct subarrays with length k/2461 maximum sum of distinct subarrays with length k.cpp](https://leetcode.com/problems/maximum sum of distinct subarrays with length k/2461 maximum sum of distinct subarrays with length k.cpp)
 - [shortest path with at most k consecutive identical characters/3970 shortest path with at most k consecutive identical characters.cpp](https://leetcode.com/problems/shortest path with at most k consecutive identical characters/3970 shortest path with at most k consecutive identical characters.cpp)
 - [diameter of binary tree/0543 diameter of binary tree.cpp](https://leetcode.com/problems/diameter of binary tree/0543 diameter of binary tree.cpp)
