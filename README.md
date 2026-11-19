@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-204
+205
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -154,6 +154,7 @@
 - [process tasks using servers/1882 process tasks using servers.cpp](https://leetcode.com/problems/process tasks using servers/1882 process tasks using servers.cpp)
 - [invert binary tree/0226 invert binary tree.cpp](https://leetcode.com/problems/invert binary tree/0226 invert binary tree.cpp)
 - [furthest point from origin/2833 furthest point from origin.cpp](https://leetcode.com/problems/furthest point from origin/2833 furthest point from origin.cpp)
+- [minimum score by changing two elements/2567 minimum score by changing two elements.cpp](https://leetcode.com/problems/minimum score by changing two elements/2567 minimum score by changing two elements.cpp)
 - [process string with special operations ii/3614 process string with special operations ii.cpp](https://leetcode.com/problems/process string with special operations ii/3614 process string with special operations ii.cpp)
 - [create grid with exactly one path/3963 create grid with exactly one path.cpp](https://leetcode.com/problems/create grid with exactly one path/3963 create grid with exactly one path.cpp)
 - [valid parentheses/0020 valid parentheses.cpp](https://leetcode.com/problems/valid parentheses/0020 valid parentheses.cpp)
