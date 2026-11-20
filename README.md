@@ -8,11 +8,12 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-205
+206
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
 <!-- PROBLEM_LIST_START -->
+- [maximize consecutive elements in an array after modification/3041 maximize consecutive elements in an array after modification.cpp](https://leetcode.com/problems/maximize consecutive elements in an array after modification/3041 maximize consecutive elements in an array after modification.cpp)
 - [count non decreasing subarrays after k operations/3420 count non decreasing subarrays after k operations.cpp](https://leetcode.com/problems/count non decreasing subarrays after k operations/3420 count non decreasing subarrays after k operations.cpp)
 - [find pivot index/0724 find pivot index.cpp](https://leetcode.com/problems/find pivot index/0724 find pivot index.cpp)
 - [minimum moves to equal array elements/0453 minimum moves to equal array elements.cpp](https://leetcode.com/problems/minimum moves to equal array elements/0453 minimum moves to equal array elements.cpp)
