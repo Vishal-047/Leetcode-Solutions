@@ -442,6 +442,7 @@
 | [1544-make-the-string-great](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1871-jump-game-vii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2833-furthest-point-from-origin](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
