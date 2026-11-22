@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-207
+208
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -28,6 +28,7 @@
 - [remove all adjacent duplicates in string/1047 remove all adjacent duplicates in string.cpp](https://leetcode.com/problems/remove all adjacent duplicates in string/1047 remove all adjacent duplicates in string.cpp)
 - [insert into a binary search tree/0701 insert into a binary search tree.cpp](https://leetcode.com/problems/insert into a binary search tree/0701 insert into a binary search tree.cpp)
 - [maximum number of jumps to reach the last index/2770 maximum number of jumps to reach the last index.cpp](https://leetcode.com/problems/maximum number of jumps to reach the last index/2770 maximum number of jumps to reach the last index.cpp)
+- [check if all as appears before all bs/2124 check if all as appears before all bs.cpp](https://leetcode.com/problems/check if all as appears before all bs/2124 check if all as appears before all bs.cpp)
 - [spiral matrix/0054 spiral matrix.cpp](https://leetcode.com/problems/spiral matrix/0054 spiral matrix.cpp)
 - [number of ways to assign edge weights ii/3559 number of ways to assign edge weights ii.cpp](https://leetcode.com/problems/number of ways to assign edge weights ii/3559 number of ways to assign edge weights ii.cpp)
 - [process string with special operations ii/3614 process string with special operations ii.cpp](https://leetcode.com/problems/process string with special operations ii/3614 process string with special operations ii.cpp)
