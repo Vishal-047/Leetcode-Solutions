@@ -282,6 +282,7 @@
 | [1340-jump-game-v](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -482,6 +483,7 @@
 | [0788-rotated-digits](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -662,6 +664,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -938,11 +941,13 @@
 | [0225-implement-stack-using-queues](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Tree
 |  |
 | ------- |
