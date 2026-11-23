@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-208
+209
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -210,6 +210,7 @@
 - [subarray product less than k/0713 subarray product less than k.cpp](https://leetcode.com/problems/subarray product less than k/0713 subarray product less than k.cpp)
 - [minimum swaps to group all 1s together ii/2134 minimum swaps to group all 1s together ii.cpp](https://leetcode.com/problems/minimum swaps to group all 1s together ii/2134 minimum swaps to group all 1s together ii.cpp)
 - [separate the digits in an array/2553 separate the digits in an array.cpp](https://leetcode.com/problems/separate the digits in an array/2553 separate the digits in an array.cpp)
+- [product of the last k numbers/1352 product of the last k numbers.cpp](https://leetcode.com/problems/product of the last k numbers/1352 product of the last k numbers.cpp)
 - [diagonal traverse/0498 diagonal traverse.cpp](https://leetcode.com/problems/diagonal traverse/0498 diagonal traverse.cpp)
 - [kth largest element in an array/0215 kth largest element in an array.cpp](https://leetcode.com/problems/kth largest element in an array/0215 kth largest element in an array.cpp)
 - [maximum length substring with two occurrences/3090 maximum length substring with two occurrences.cpp](https://leetcode.com/problems/maximum length substring with two occurrences/3090 maximum length substring with two occurrences.cpp)
