@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-209
+210
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -167,6 +167,7 @@
 - [two sum iv input is a bst/0653 two sum iv input is a bst.cpp](https://leetcode.com/problems/two sum iv input is a bst/0653 two sum iv input is a bst.cpp)
 - [construct binary tree from inorder and postorder traversal/0106 construct binary tree from inorder and postorder traversal.cpp](https://leetcode.com/problems/construct binary tree from inorder and postorder traversal/0106 construct binary tree from inorder and postorder traversal.cpp)
 - [count the number of special characters ii/3121 count the number of special characters ii.cpp](https://leetcode.com/problems/count the number of special characters ii/3121 count the number of special characters ii.cpp)
+- [maximum subarray with equal products/3411 maximum subarray with equal products.cpp](https://leetcode.com/problems/maximum subarray with equal products/3411 maximum subarray with equal products.cpp)
 - [reverse string/0344 reverse string.cpp](https://leetcode.com/problems/reverse string/0344 reverse string.cpp)
 - [number of ways to reorder array to get same bst/1569 number of ways to reorder array to get same bst.cpp](https://leetcode.com/problems/number of ways to reorder array to get same bst/1569 number of ways to reorder array to get same bst.cpp)
 - [palindromic path queries in a tree/3841 palindromic path queries in a tree.cpp](https://leetcode.com/problems/palindromic path queries in a tree/3841 palindromic path queries in a tree.cpp)
