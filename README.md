@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-210
+211
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -199,6 +199,7 @@
 - [longest strictly increasing or strictly decreasing subarray/3105 longest strictly increasing or strictly decreasing subarray.cpp](https://leetcode.com/problems/longest strictly increasing or strictly decreasing subarray/3105 longest strictly increasing or strictly decreasing subarray.cpp)
 - [minimum absolute difference in bst/0530 minimum absolute difference in bst.cpp](https://leetcode.com/problems/minimum absolute difference in bst/0530 minimum absolute difference in bst.cpp)
 - [minimum add to make parentheses valid/0921 minimum add to make parentheses valid.cpp](https://leetcode.com/problems/minimum add to make parentheses valid/0921 minimum add to make parentheses valid.cpp)
+- [number of islands/0200 number of islands.cpp](https://leetcode.com/problems/number of islands/0200 number of islands.cpp)
 - [find the prefix common array of two arrays/2657 find the prefix common array of two arrays.cpp](https://leetcode.com/problems/find the prefix common array of two arrays/2657 find the prefix common array of two arrays.cpp)
 - [maximum number of balloons/1189 maximum number of balloons.cpp](https://leetcode.com/problems/maximum number of balloons/1189 maximum number of balloons.cpp)
 - [sum of sortable integers/3886 sum of sortable integers.cpp](https://leetcode.com/problems/sum of sortable integers/3886 sum of sortable integers.cpp)
