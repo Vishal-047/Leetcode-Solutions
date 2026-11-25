@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-212
+213
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -20,6 +20,7 @@
 - [detect cycles in 2d grid/1559 detect cycles in 2d grid.cpp](https://leetcode.com/problems/detect cycles in 2d grid/1559 detect cycles in 2d grid.cpp)
 - [search a 2d matrix/0074 search a 2d matrix.cpp](https://leetcode.com/problems/search a 2d matrix/0074 search a 2d matrix.cpp)
 - [remove nth node from end of list/0019 remove nth node from end of list.cpp](https://leetcode.com/problems/remove nth node from end of list/0019 remove nth node from end of list.cpp)
+- [smallest unique subarray/3934 smallest unique subarray.cpp](https://leetcode.com/problems/smallest unique subarray/3934 smallest unique subarray.cpp)
 - [unique binary search trees ii/0095 unique binary search trees ii.cpp](https://leetcode.com/problems/unique binary search trees ii/0095 unique binary search trees ii.cpp)
 - [path sum ii/0113 path sum ii.cpp](https://leetcode.com/problems/path sum ii/0113 path sum ii.cpp)
 - [rotated digits/0788 rotated digits.cpp](https://leetcode.com/problems/rotated digits/0788 rotated digits.cpp)
