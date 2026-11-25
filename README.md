@@ -901,6 +901,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Recursion
@@ -928,6 +929,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -952,6 +954,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
