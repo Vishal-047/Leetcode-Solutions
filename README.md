@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-213
+214
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -64,6 +64,7 @@
 - [daily temperatures/0739 daily temperatures.cpp](https://leetcode.com/problems/daily temperatures/0739 daily temperatures.cpp)
 - [find servers that handled most number of requests/1606 find servers that handled most number of requests.cpp](https://leetcode.com/problems/find servers that handled most number of requests/1606 find servers that handled most number of requests.cpp)
 - [minimum depth of binary tree/0111 minimum depth of binary tree.cpp](https://leetcode.com/problems/minimum depth of binary tree/0111 minimum depth of binary tree.cpp)
+- [stone removal game/3360 stone removal game.cpp](https://leetcode.com/problems/stone removal game/3360 stone removal game.cpp)
 - [sum of gcd of formed pairs/3867 sum of gcd of formed pairs.cpp](https://leetcode.com/problems/sum of gcd of formed pairs/3867 sum of gcd of formed pairs.cpp)
 - [path sum/0112 path sum.cpp](https://leetcode.com/problems/path sum/0112 path sum.cpp)
 - [magnetic force between two balls/1552 magnetic force between two balls.cpp](https://leetcode.com/problems/magnetic force between two balls/1552 magnetic force between two balls.cpp)
