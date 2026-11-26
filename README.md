@@ -499,6 +499,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2409-count-days-spent-together](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -756,6 +757,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3360-stone-removal-game](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Vishal-047/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
