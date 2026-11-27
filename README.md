@@ -8,7 +8,7 @@
 
 ## 📊 Progress
 <!-- PROBLEM_COUNT_START -->
-214
+215
 <!-- PROBLEM_COUNT_END -->
 
 ## 📂 Solved Problems
@@ -43,6 +43,7 @@
 - [rotate function/0396 rotate function.cpp](https://leetcode.com/problems/rotate function/0396 rotate function.cpp)
 - [minimum cost of buying candies with discount/2144 minimum cost of buying candies with discount.cpp](https://leetcode.com/problems/minimum cost of buying candies with discount/2144 minimum cost of buying candies with discount.cpp)
 - [rotate image/0048 rotate image.cpp](https://leetcode.com/problems/rotate image/0048 rotate image.cpp)
+- [maximum number of items from sale i/3946 maximum number of items from sale i.cpp](https://leetcode.com/problems/maximum number of items from sale i/3946 maximum number of items from sale i.cpp)
 - [left and right sum differences/2574 left and right sum differences.cpp](https://leetcode.com/problems/left and right sum differences/2574 left and right sum differences.cpp)
 - [rectangle overlap/0836 rectangle overlap.cpp](https://leetcode.com/problems/rectangle overlap/0836 rectangle overlap.cpp)
 - [remove invalid parentheses/0301 remove invalid parentheses.cpp](https://leetcode.com/problems/remove invalid parentheses/0301 remove invalid parentheses.cpp)
