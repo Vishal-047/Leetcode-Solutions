@@ -6,16 +6,16 @@ public:
         int top = ranges::max(factors);
         vector<int> have(top + 1), gains(top + 1);  
         for (int factor : factors) have[factor]++;
-        for (int factor = 1; factor <= top; factor++)  // every factor-th cell is a multiple
+        for (int factor = 1; factor <= top; factor++)  
             gains[factor] = ranges::fold_left(have | views::drop(factor) | views::stride(factor), 0, plus{});
 
         int cheapest = ranges::min(prices);
-        vector<int> best(budget + 1);  // no first copies yet: everything goes to the cheapest item
+        vector<int> best(budget + 1);  
         for (int money = 0; money <= budget; money++) best[money] = money / cheapest;
         for (auto& item : items) {
             int factor = item[0], price = item[1];
-            if (int gain = gains[factor]; gain > price / cheapest)  // else the same money buys as many copies of the cheapest item
-                for (int money = budget; money >= price; money--)  // backwards: one first copy per item
+            if (int gain = gains[factor]; gain > price / cheapest)  
+                for (int money = budget; money >= price; money--)  
                     best[money] = max(best[money], best[money - price] + gain);
         }
         return best[budget];
